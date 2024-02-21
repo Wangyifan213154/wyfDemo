@@ -1,0 +1,99 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    121.501491529,
+                    25.258062814
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "大队",
+                "entity_name": "海军海锋大队",
+                "icon": "海军海锋大队",
+                "direction": "top"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.276190047,
+                    22.700754455
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "大队",
+                "entity_name": "海军反潜航空大队",
+                "icon": "海军反潜航空大队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.277730513,
+                    22.695768093
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "海军舰队指挥部",
+                "icon": "海军舰队指挥部",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.277881275,
+                    22.6926020770001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "海军陆战队指挥部",
+                "icon": "海军陆战队指挥部",
+                "direction": "bottom"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.533979946,
+                    25.0706182810001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "司令部",
+                "entity_name": "海军司令部",
+                "icon": "海军司令部",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.843638938,
+                    24.5941610140001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "港口",
+                "entity_name": "苏澳",
+                "icon": "苏澳"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

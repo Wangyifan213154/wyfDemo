@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "name": "555",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0",
+                "Id": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        117.5, 29.0
+                    ],
+                    [
+                        123.0, 29.0
+                    ],
+                    [
+                        123, 22.5
+                    ],
+                    [
+                        121.5, 21
+                    ],
+                    [
+                        117.5, 21
+                    ],
+                    [
+                        117.5, 29
+                    ]
+                ]
+            }
+        }
+    ]
+}

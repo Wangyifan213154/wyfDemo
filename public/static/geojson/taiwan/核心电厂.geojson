@@ -1,0 +1,182 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.52475349181712,
+          24.278790827651065
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "FID_1" : 0,
+        "Id" : 0,
+        "type" : "火力",
+        "Name" : "台中电厂",
+        "level" : "核心电厂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.34193157120249,
+          22.539008255554791
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "FID_1" : 12,
+        "Id" : 0,
+        "type" : "火力",
+        "Name" : "大林电厂",
+        "level" : "核心电厂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.14443630771855,
+          22.924084361664995
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "FID_1" : 14,
+        "Id" : 0,
+        "type" : "火力",
+        "Name" : "兴达电厂",
+        "level" : "核心电厂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.73753547034067,
+          24.556698653904238
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "FID_1" : 15,
+        "Id" : 0,
+        "type" : "火力",
+        "Name" : "通宵电厂",
+        "level" : "核心电厂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.12643986482477,
+          25.048599339948439
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "FID_1" : 16,
+        "Id" : 0,
+        "type" : "火力",
+        "Name" : "大谭电厂",
+        "level" : "核心电厂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.75299160534331,
+          25.166164542478146
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "FID_1" : 17,
+        "Id" : 0,
+        "type" : "火力",
+        "Name" : "协和电厂",
+        "level" : "核心电厂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23009690392846,
+          23.80369178015361
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "FID_1" : 24,
+        "Id" : 0,
+        "type" : "民间电厂",
+        "Name" : "麦寮电力",
+        "level" : "核心电厂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.78173528044681,
+          23.83303846589218
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "FID_1" : 34,
+        "Id" : 0,
+        "type" : "抽蓄电力",
+        "Name" : "明潭抽蓄电厂",
+        "level" : "核心电厂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.77102770592057,
+          22.01280367334321
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "FID_1" : 39,
+        "Id" : 0,
+        "type" : "核能",
+        "Name" : "核能三厂",
+        "level" : "核心电厂"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"type":"Topology","arcs":[[[135,0],[34,41],[10,59],[-3,4],[4,4],[18,92],[-195,-167],[-3,-12],[135,-21]]],"transform":{"scale":[0.0334286366231334,0.031680745625055254],"translate":[116.88395365852773,21.19408426034579]},"objects":{"台湾防空识别L":{"type":"GeometryCollection","geometries":[{"type":"LineString","arcs":[0],"properties":{"Id":0}}]}}}

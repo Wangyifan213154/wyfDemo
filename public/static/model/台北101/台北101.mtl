@@ -1,0 +1,3191 @@
+# DPModeler v3.0 Wavefront OBJ Exporter
+
+newmtl mtl_default
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+
+newmtl 0e8a6d27-e66d-482f-99b3-c17aed781627.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0e8a6d27-e66d-482f-99b3-c17aed781627.png
+
+newmtl 289568f7-a632-451a-99ec-6a9df02baa80.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\289568f7-a632-451a-99ec-6a9df02baa80.png
+
+newmtl 98e6ab44-6ca9-4546-a50e-e0359d6c418a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\98e6ab44-6ca9-4546-a50e-e0359d6c418a.png
+
+newmtl 6843f3c6-8b86-4bf1-8fed-6339a1b78028.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6843f3c6-8b86-4bf1-8fed-6339a1b78028.png
+
+newmtl 1a08ce91-502e-4ed6-863f-6ce3beb3c54c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1a08ce91-502e-4ed6-863f-6ce3beb3c54c.png
+
+newmtl a60cffae-e096-42fb-b694-a7469926ba23.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a60cffae-e096-42fb-b694-a7469926ba23.png
+
+newmtl 547cff52-e80e-420f-b829-976574b5627e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\547cff52-e80e-420f-b829-976574b5627e.png
+
+newmtl 0356a098-605f-422a-b812-7d386bcc67c3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0356a098-605f-422a-b812-7d386bcc67c3.png
+
+newmtl 0090e2b1-db58-421d-838e-2bfa498e0e74.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0090e2b1-db58-421d-838e-2bfa498e0e74.png
+
+newmtl de8ad896-08cc-479f-ac69-8ef8f09b56c1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\de8ad896-08cc-479f-ac69-8ef8f09b56c1.png
+
+newmtl c9af107c-e993-4279-898b-c3977db21199.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c9af107c-e993-4279-898b-c3977db21199.png
+
+newmtl 7dffeeae-68d4-4158-b0e8-8cc737c5989f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7dffeeae-68d4-4158-b0e8-8cc737c5989f.png
+
+newmtl d3cddf71-e962-4c22-9d0c-cddcb1712083.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d3cddf71-e962-4c22-9d0c-cddcb1712083.png
+
+newmtl 879716f2-1907-41a5-8570-70c3c583762d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\879716f2-1907-41a5-8570-70c3c583762d.png
+
+newmtl c4351c37-61fa-41e2-858b-416d38e8ec5c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c4351c37-61fa-41e2-858b-416d38e8ec5c.png
+
+newmtl 18bdf9b0-b7dc-4333-b0f6-be6aaca4edc2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\18bdf9b0-b7dc-4333-b0f6-be6aaca4edc2.png
+
+newmtl 1614581f-24db-4706-868c-db0be9c4c2c5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1614581f-24db-4706-868c-db0be9c4c2c5.png
+
+newmtl 8690e4a5-43b0-4c32-be0e-f1861e0f5498.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8690e4a5-43b0-4c32-be0e-f1861e0f5498.png
+
+newmtl 03680a9d-52c4-4a57-8745-ca259b89b692.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\03680a9d-52c4-4a57-8745-ca259b89b692.png
+
+newmtl b6bb05e7-b5ac-44f2-ae00-76e45c1f2036.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b6bb05e7-b5ac-44f2-ae00-76e45c1f2036.png
+
+newmtl 39f1a0ff-cad0-4ce4-b82f-79b41243ced6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\39f1a0ff-cad0-4ce4-b82f-79b41243ced6.png
+
+newmtl 4be0f36b-81b7-4db9-857f-cc8cf0665c9c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4be0f36b-81b7-4db9-857f-cc8cf0665c9c.png
+
+newmtl c201a7bd-169c-4d1d-9503-fbe250077b2c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c201a7bd-169c-4d1d-9503-fbe250077b2c.png
+
+newmtl 53a436b5-e774-48ff-8cfe-af364f851cd6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\53a436b5-e774-48ff-8cfe-af364f851cd6.png
+
+newmtl 78b59326-d7d2-4744-afd6-5fbfe87e07c3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\78b59326-d7d2-4744-afd6-5fbfe87e07c3.png
+
+newmtl fbb0d4d2-8d0d-4bbe-b3bd-7d1b68fe4ee3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fbb0d4d2-8d0d-4bbe-b3bd-7d1b68fe4ee3.png
+
+newmtl e10ed3e2-41b0-4d99-beb1-01bdc61dc90d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e10ed3e2-41b0-4d99-beb1-01bdc61dc90d.png
+
+newmtl 836ad734-665c-4f49-a1c6-920ba9e2675e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\836ad734-665c-4f49-a1c6-920ba9e2675e.png
+
+newmtl fa654d94-f965-43ae-94b9-0d86ce58415a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fa654d94-f965-43ae-94b9-0d86ce58415a.png
+
+newmtl d7171e60-9dc7-4496-abd7-0d2348e293eb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d7171e60-9dc7-4496-abd7-0d2348e293eb.png
+
+newmtl 5bb3730f-d4f7-497f-a045-920d3be72efe.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5bb3730f-d4f7-497f-a045-920d3be72efe.png
+
+newmtl 311e3896-37e4-4fcc-94ba-71f190f636e0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\311e3896-37e4-4fcc-94ba-71f190f636e0.png
+
+newmtl 51363308-eada-44e0-befb-4b30f5919f23.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\51363308-eada-44e0-befb-4b30f5919f23.png
+
+newmtl 25319fe3-6597-491c-b8e3-7b599286e66e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\25319fe3-6597-491c-b8e3-7b599286e66e.png
+
+newmtl dcd9ac63-a91e-4b88-a0a3-146d91d86b35.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\dcd9ac63-a91e-4b88-a0a3-146d91d86b35.png
+
+newmtl e3c5105c-9eba-4e8e-95a3-2a1a66f5e4fd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e3c5105c-9eba-4e8e-95a3-2a1a66f5e4fd.png
+
+newmtl 08453949-a333-432e-9506-cc5a75f561d1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\08453949-a333-432e-9506-cc5a75f561d1.png
+
+newmtl 2faf6714-cbac-4a87-b233-51f603cfd9cf.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2faf6714-cbac-4a87-b233-51f603cfd9cf.png
+
+newmtl adbeb6fa-dd0d-4407-b8b3-dbff3b5d516f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\adbeb6fa-dd0d-4407-b8b3-dbff3b5d516f.png
+
+newmtl 80df40ec-2968-4d3d-841a-9c812bc0b416.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\80df40ec-2968-4d3d-841a-9c812bc0b416.png
+
+newmtl d2fc520d-518b-4a18-a8d9-da639eb6e1a9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d2fc520d-518b-4a18-a8d9-da639eb6e1a9.png
+
+newmtl d611c639-b8ba-4899-a9ea-4fc5fa2738f1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d611c639-b8ba-4899-a9ea-4fc5fa2738f1.png
+
+newmtl 5003e39b-ff84-4e38-902d-dc7a88d1d6f4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5003e39b-ff84-4e38-902d-dc7a88d1d6f4.png
+
+newmtl 3df3999e-514f-4c3c-94e1-6aeb80d11845.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3df3999e-514f-4c3c-94e1-6aeb80d11845.png
+
+newmtl 0a681183-5c94-49ec-8d44-22b85e0a9ec5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0a681183-5c94-49ec-8d44-22b85e0a9ec5.png
+
+newmtl afb950b6-6dbc-4e2d-b0a7-0f48db2c6368.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\afb950b6-6dbc-4e2d-b0a7-0f48db2c6368.png
+
+newmtl 2e019741-583e-4b7c-9105-b86d8a8e9f35.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2e019741-583e-4b7c-9105-b86d8a8e9f35.png
+
+newmtl c278e854-6495-4d83-ad13-2a720dd427f7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c278e854-6495-4d83-ad13-2a720dd427f7.png
+
+newmtl 9f549ecd-f449-4a98-a232-8740d1458e3e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9f549ecd-f449-4a98-a232-8740d1458e3e.png
+
+newmtl bc94351b-cf62-4ac9-bd22-05d6bcc18775.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\bc94351b-cf62-4ac9-bd22-05d6bcc18775.png
+
+newmtl ef0ff8e7-2e7a-40a8-84eb-ff36d9eb61ef.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ef0ff8e7-2e7a-40a8-84eb-ff36d9eb61ef.png
+
+newmtl 37468086-d1f3-4a75-9935-da601e6704b0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\37468086-d1f3-4a75-9935-da601e6704b0.png
+
+newmtl 684add5c-a176-4e51-80ee-754a9b8485dd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\684add5c-a176-4e51-80ee-754a9b8485dd.png
+
+newmtl 09b7f41f-89e8-4e84-a74c-c180d777e5b8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\09b7f41f-89e8-4e84-a74c-c180d777e5b8.png
+
+newmtl cbd77db7-b5b2-4296-a34e-4f6255f62091.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cbd77db7-b5b2-4296-a34e-4f6255f62091.png
+
+newmtl e9ab8f57-22d4-4375-9ca4-05b88544a6d8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e9ab8f57-22d4-4375-9ca4-05b88544a6d8.png
+
+newmtl a5d6b68b-fa9c-4bcc-91b1-5cabcef0f706.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a5d6b68b-fa9c-4bcc-91b1-5cabcef0f706.png
+
+newmtl b8137826-f1ef-43d1-9107-ef6b6838c949.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b8137826-f1ef-43d1-9107-ef6b6838c949.png
+
+newmtl 8c2bfe4c-5d1b-46d3-8512-4114e7fff305.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8c2bfe4c-5d1b-46d3-8512-4114e7fff305.png
+
+newmtl 466a670c-7ef6-4ba1-8721-7939fc2dcc93.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\466a670c-7ef6-4ba1-8721-7939fc2dcc93.png
+
+newmtl 6c2c9e1f-adee-486a-81a3-b2603f7963b0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6c2c9e1f-adee-486a-81a3-b2603f7963b0.png
+
+newmtl 32fe1389-2d65-46dd-85c5-8fd67b47870e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\32fe1389-2d65-46dd-85c5-8fd67b47870e.png
+
+newmtl 08789758-a0cc-4520-89c0-dec1f8b11582.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\08789758-a0cc-4520-89c0-dec1f8b11582.png
+
+newmtl 2a570fc1-d636-4103-a655-d9b4c0477764.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2a570fc1-d636-4103-a655-d9b4c0477764.png
+
+newmtl 1f77092f-9a44-4614-a9a9-1511f520f85d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1f77092f-9a44-4614-a9a9-1511f520f85d.png
+
+newmtl 0b58e75d-1350-4c47-93f7-074733b8c0a6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0b58e75d-1350-4c47-93f7-074733b8c0a6.png
+
+newmtl d14020ff-0f6c-4814-8edb-a29892a71781.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d14020ff-0f6c-4814-8edb-a29892a71781.png
+
+newmtl 428a58a7-4509-49cb-8acb-61b74accda91.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\428a58a7-4509-49cb-8acb-61b74accda91.png
+
+newmtl c3de4086-7c38-4bc9-985e-e749c9d5d656.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c3de4086-7c38-4bc9-985e-e749c9d5d656.png
+
+newmtl 1fec75b6-b630-467b-875e-8e3157dbd3d4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1fec75b6-b630-467b-875e-8e3157dbd3d4.png
+
+newmtl f284a1e5-2d97-4efd-bbf2-11b5b620e05d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f284a1e5-2d97-4efd-bbf2-11b5b620e05d.png
+
+newmtl 4f82430f-01be-48f7-bb44-64f599a195a2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4f82430f-01be-48f7-bb44-64f599a195a2.png
+
+newmtl 13c4414e-2402-4876-9a9b-f6febade60bd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\13c4414e-2402-4876-9a9b-f6febade60bd.png
+
+newmtl 891de966-fca3-4d70-a073-def81535cd80.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\891de966-fca3-4d70-a073-def81535cd80.png
+
+newmtl 7d3f10d9-13c7-42d7-9673-d06a6178b41d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7d3f10d9-13c7-42d7-9673-d06a6178b41d.png
+
+newmtl 82b01e42-2be7-4838-bdb9-ad1fd2098481.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\82b01e42-2be7-4838-bdb9-ad1fd2098481.png
+
+newmtl ec037f19-7117-45aa-ac4a-2f821eb3ad8d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ec037f19-7117-45aa-ac4a-2f821eb3ad8d.png
+
+newmtl 190c825b-994e-41b7-a893-076a4753b9b6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\190c825b-994e-41b7-a893-076a4753b9b6.png
+
+newmtl fc6c70f9-598e-40d4-98ee-e6c70dcfa1fc.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fc6c70f9-598e-40d4-98ee-e6c70dcfa1fc.png
+
+newmtl 6eb29d47-b5c0-42f5-90bf-63f31e818523.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6eb29d47-b5c0-42f5-90bf-63f31e818523.png
+
+newmtl c978bb59-113a-4bb9-b532-e98bfeee1541.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c978bb59-113a-4bb9-b532-e98bfeee1541.png
+
+newmtl f9dfbfe7-12f9-498b-8044-761dd7f51a7e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f9dfbfe7-12f9-498b-8044-761dd7f51a7e.png
+
+newmtl 349dd217-ed9b-4057-81dc-edc62111baf7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\349dd217-ed9b-4057-81dc-edc62111baf7.png
+
+newmtl 6a18ed51-c46a-4015-959c-2f467095da5d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6a18ed51-c46a-4015-959c-2f467095da5d.png
+
+newmtl a490ff32-e215-4a4c-a84f-789b865aae73.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a490ff32-e215-4a4c-a84f-789b865aae73.png
+
+newmtl e75ebed5-ddd4-4ab2-8ada-ea7e58b45e55.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e75ebed5-ddd4-4ab2-8ada-ea7e58b45e55.png
+
+newmtl 45fd28ce-8c40-4ab5-a4be-cc09f8fdbfb4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\45fd28ce-8c40-4ab5-a4be-cc09f8fdbfb4.png
+
+newmtl 2368e155-0dcc-41f4-ab2c-3e1974fbbe48.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2368e155-0dcc-41f4-ab2c-3e1974fbbe48.png
+
+newmtl 4306ef66-6290-4e7b-98dd-92d514203e86.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4306ef66-6290-4e7b-98dd-92d514203e86.png
+
+newmtl 0aa2e564-9a28-420a-a509-32d8838a5493.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0aa2e564-9a28-420a-a509-32d8838a5493.png
+
+newmtl 1b9acab1-a960-4d08-911a-7327023834cc.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1b9acab1-a960-4d08-911a-7327023834cc.png
+
+newmtl 882f3130-22eb-417b-8a1e-53ab09b6442e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\882f3130-22eb-417b-8a1e-53ab09b6442e.png
+
+newmtl f462f534-6b71-44b3-814f-2e7fa0817029.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f462f534-6b71-44b3-814f-2e7fa0817029.png
+
+newmtl d2131e43-415d-4064-a40c-1c88d0fd4517.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d2131e43-415d-4064-a40c-1c88d0fd4517.png
+
+newmtl afc51cc5-b54e-4431-b503-1a743f540b2b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\afc51cc5-b54e-4431-b503-1a743f540b2b.png
+
+newmtl fedbc8f1-75c2-4289-86a0-ceb25f4bf620.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fedbc8f1-75c2-4289-86a0-ceb25f4bf620.png
+
+newmtl a71f5ed3-385d-4165-a8ee-f07ac9dc004d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a71f5ed3-385d-4165-a8ee-f07ac9dc004d.png
+
+newmtl 0dc6f2d8-dbf7-44d9-8202-426ee7b465e4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0dc6f2d8-dbf7-44d9-8202-426ee7b465e4.png
+
+newmtl fe4720b1-1155-4a4c-a239-2108c1007455.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fe4720b1-1155-4a4c-a239-2108c1007455.png
+
+newmtl 8545346b-add4-4573-b41e-c13c9dd89801.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8545346b-add4-4573-b41e-c13c9dd89801.png
+
+newmtl f4856907-a6aa-4fbb-8af9-791183d28b55.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f4856907-a6aa-4fbb-8af9-791183d28b55.png
+
+newmtl a6f1bac6-e4bd-4d39-9104-1c0d033d907a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a6f1bac6-e4bd-4d39-9104-1c0d033d907a.png
+
+newmtl 56d3b1e9-671e-4517-9818-c8e24892bb69.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\56d3b1e9-671e-4517-9818-c8e24892bb69.png
+
+newmtl 7dfeddcb-4c81-4672-849a-f43a73a9a051.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7dfeddcb-4c81-4672-849a-f43a73a9a051.png
+
+newmtl ee20d8cd-842f-435a-a19f-ed17a06d5190.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ee20d8cd-842f-435a-a19f-ed17a06d5190.png
+
+newmtl 690909ed-8767-438f-bd6d-c6aa5d3f6534.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\690909ed-8767-438f-bd6d-c6aa5d3f6534.png
+
+newmtl d90252e6-b09e-4539-b3c7-7246f4777345.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d90252e6-b09e-4539-b3c7-7246f4777345.png
+
+newmtl 14da4d78-1189-4749-a247-6223a0d7c74a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\14da4d78-1189-4749-a247-6223a0d7c74a.png
+
+newmtl 283e8c22-f24e-4330-8769-53e42da0d02f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\283e8c22-f24e-4330-8769-53e42da0d02f.png
+
+newmtl 595cffc6-0777-469e-9cea-619eb229d02b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\595cffc6-0777-469e-9cea-619eb229d02b.png
+
+newmtl 479e5adc-94ec-4002-8010-9bf32a128bd4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\479e5adc-94ec-4002-8010-9bf32a128bd4.png
+
+newmtl 294f868c-8357-493c-a24c-d6360f9971c6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\294f868c-8357-493c-a24c-d6360f9971c6.png
+
+newmtl 1eada9f1-9a72-47ea-b645-5a583671354f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1eada9f1-9a72-47ea-b645-5a583671354f.png
+
+newmtl c166ef06-9fac-4f25-9e36-40e450933dc0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c166ef06-9fac-4f25-9e36-40e450933dc0.png
+
+newmtl 1b96e88d-8531-450f-b16f-20ea93943e5a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1b96e88d-8531-450f-b16f-20ea93943e5a.png
+
+newmtl 2ae79ac3-dbea-4f10-943b-0ac2cc659883.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2ae79ac3-dbea-4f10-943b-0ac2cc659883.png
+
+newmtl 6e6172e8-3ae6-499c-80da-cc505330c993.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6e6172e8-3ae6-499c-80da-cc505330c993.png
+
+newmtl 2dd9e731-e778-47f9-a932-c4d2530f27b5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2dd9e731-e778-47f9-a932-c4d2530f27b5.png
+
+newmtl dca29aac-a0f5-4318-9a52-582bfec39144.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\dca29aac-a0f5-4318-9a52-582bfec39144.png
+
+newmtl 7bb55ca7-284f-4e1a-888a-fe9b1502f664.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7bb55ca7-284f-4e1a-888a-fe9b1502f664.png
+
+newmtl b302c78d-c6fc-43ee-8d76-d9680774a775.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b302c78d-c6fc-43ee-8d76-d9680774a775.png
+
+newmtl 12a06b24-87db-4995-ac4e-23a158e1ca73.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\12a06b24-87db-4995-ac4e-23a158e1ca73.png
+
+newmtl 67cf8db4-70af-4171-a7fb-9034042316e7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\67cf8db4-70af-4171-a7fb-9034042316e7.png
+
+newmtl 7e308dbe-1a29-4e3b-83be-764bcf85936d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7e308dbe-1a29-4e3b-83be-764bcf85936d.png
+
+newmtl 7583b166-db95-401c-b426-03c1fc3ab358.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7583b166-db95-401c-b426-03c1fc3ab358.png
+
+newmtl 57d5ea73-e93d-4c78-9338-7c98c38be793.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\57d5ea73-e93d-4c78-9338-7c98c38be793.png
+
+newmtl e61e2ed1-3087-404e-bc35-cf71f520211c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e61e2ed1-3087-404e-bc35-cf71f520211c.png
+
+newmtl e11c5e22-e62b-4939-a2b8-e05dcce4693b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e11c5e22-e62b-4939-a2b8-e05dcce4693b.png
+
+newmtl d7b90f00-99d0-4b9f-a964-85c46f7cb988.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d7b90f00-99d0-4b9f-a964-85c46f7cb988.png
+
+newmtl f76d2ea8-2050-4128-9c25-fa4eec962a47.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f76d2ea8-2050-4128-9c25-fa4eec962a47.png
+
+newmtl 1033c960-ab7a-439a-8bf5-28941f9c4bde.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1033c960-ab7a-439a-8bf5-28941f9c4bde.png
+
+newmtl 389732c2-db1f-4ec6-aac8-6d2fa1aad7a4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\389732c2-db1f-4ec6-aac8-6d2fa1aad7a4.png
+
+newmtl 0a3411b5-9790-41ce-8df3-21db8070ee78.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0a3411b5-9790-41ce-8df3-21db8070ee78.png
+
+newmtl e02f453b-358e-4a8a-9aed-85a856b575dd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e02f453b-358e-4a8a-9aed-85a856b575dd.png
+
+newmtl 7f411360-703a-4756-883f-769539787b88.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7f411360-703a-4756-883f-769539787b88.png
+
+newmtl 0490b161-6797-47a7-9822-b4174884e783.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0490b161-6797-47a7-9822-b4174884e783.png
+
+newmtl f4f01295-d9c3-4aaf-a609-8176cf9d4e46.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f4f01295-d9c3-4aaf-a609-8176cf9d4e46.png
+
+newmtl 8d3c6deb-4015-489f-9f6e-053eea2529b5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8d3c6deb-4015-489f-9f6e-053eea2529b5.png
+
+newmtl de931f79-6945-4eb3-9679-fd3464425b50.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\de931f79-6945-4eb3-9679-fd3464425b50.png
+
+newmtl f381a435-c7d1-4126-8724-b24ab250bb3b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f381a435-c7d1-4126-8724-b24ab250bb3b.png
+
+newmtl 66d30f83-3f25-427d-937b-0006e9670388.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\66d30f83-3f25-427d-937b-0006e9670388.png
+
+newmtl cf324874-1eca-4751-8148-c8fe64ac1d5e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cf324874-1eca-4751-8148-c8fe64ac1d5e.png
+
+newmtl 3b4c38c5-41f4-4366-82a2-7b0735b0ba9b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3b4c38c5-41f4-4366-82a2-7b0735b0ba9b.png
+
+newmtl 81e24173-869e-478c-ae67-039f81449cee.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\81e24173-869e-478c-ae67-039f81449cee.png
+
+newmtl 96e8206d-48fe-4fb1-bad1-7690c3456d0b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\96e8206d-48fe-4fb1-bad1-7690c3456d0b.png
+
+newmtl 91a57a83-470b-4e2f-8a8e-85c3d6e55ee2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\91a57a83-470b-4e2f-8a8e-85c3d6e55ee2.png
+
+newmtl 04a683e8-5b31-4bcc-95c6-4f6974fa1c56.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\04a683e8-5b31-4bcc-95c6-4f6974fa1c56.png
+
+newmtl 5445e0d6-9ca3-4e2c-8ffe-1b39fb14ae45.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5445e0d6-9ca3-4e2c-8ffe-1b39fb14ae45.png
+
+newmtl b53af00a-70bc-476d-9a72-69b51743f289.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b53af00a-70bc-476d-9a72-69b51743f289.png
+
+newmtl 2ebdf23e-0798-455a-9c64-2426df54838f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2ebdf23e-0798-455a-9c64-2426df54838f.png
+
+newmtl e57e785c-45a3-48ab-b937-f625d887f5e6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e57e785c-45a3-48ab-b937-f625d887f5e6.png
+
+newmtl 7874b4cc-691a-479f-87fb-a14fd530fee6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7874b4cc-691a-479f-87fb-a14fd530fee6.png
+
+newmtl 24dd4dcf-6ba8-4940-96d2-e3afd68fe90f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\24dd4dcf-6ba8-4940-96d2-e3afd68fe90f.png
+
+newmtl a2b90228-7058-4d4a-a066-cc3a7f9c6bd9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a2b90228-7058-4d4a-a066-cc3a7f9c6bd9.png
+
+newmtl e1ffd7b7-6dbf-4fd8-b3be-b728416a02ea.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e1ffd7b7-6dbf-4fd8-b3be-b728416a02ea.png
+
+newmtl c3ab2696-486d-497c-9c27-683e3aaf6ae9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c3ab2696-486d-497c-9c27-683e3aaf6ae9.png
+
+newmtl 715312b6-d346-4f6b-87c0-ff5ce9d8d3b3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\715312b6-d346-4f6b-87c0-ff5ce9d8d3b3.png
+
+newmtl 00754253-adeb-4efe-bdb9-06494d66dce4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\00754253-adeb-4efe-bdb9-06494d66dce4.png
+
+newmtl d6a897b4-9cd2-49c6-950a-6fb7b2006f80.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d6a897b4-9cd2-49c6-950a-6fb7b2006f80.png
+
+newmtl 970b82f9-c951-480a-bad9-4c32d2d69fe7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\970b82f9-c951-480a-bad9-4c32d2d69fe7.png
+
+newmtl 2af706b0-7838-4bc3-ba45-b328efead6e1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2af706b0-7838-4bc3-ba45-b328efead6e1.png
+
+newmtl 7736f179-4ad2-4b43-853f-4e45b5773ac7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7736f179-4ad2-4b43-853f-4e45b5773ac7.png
+
+newmtl 760a2dd3-93fa-4975-b8b7-55dc3ec2f168.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\760a2dd3-93fa-4975-b8b7-55dc3ec2f168.png
+
+newmtl 12516a73-d48f-4d4f-aac8-8e9e9300f475.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\12516a73-d48f-4d4f-aac8-8e9e9300f475.png
+
+newmtl 8a6d9433-1d37-447e-be4d-a76ae7c78978.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8a6d9433-1d37-447e-be4d-a76ae7c78978.png
+
+newmtl 0bbcebf1-6e4f-4f21-a8af-50f26103b8de.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0bbcebf1-6e4f-4f21-a8af-50f26103b8de.png
+
+newmtl d815a8e2-c80e-42e7-8df3-2f97052be124.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d815a8e2-c80e-42e7-8df3-2f97052be124.png
+
+newmtl d6a8d8a7-4b61-4bb6-8063-4c8eda902c5a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d6a8d8a7-4b61-4bb6-8063-4c8eda902c5a.png
+
+newmtl 7ae0eacf-d9c0-4250-9b83-7d473748c499.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7ae0eacf-d9c0-4250-9b83-7d473748c499.png
+
+newmtl 5c093af4-5350-4c73-bf8b-c2f30d4dc637.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5c093af4-5350-4c73-bf8b-c2f30d4dc637.png
+
+newmtl 970aaa03-5cd9-4f2f-924a-b232bc02d0c5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\970aaa03-5cd9-4f2f-924a-b232bc02d0c5.png
+
+newmtl c1babb8e-eccb-4442-8477-723f4aa54277.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c1babb8e-eccb-4442-8477-723f4aa54277.png
+
+newmtl f0711e15-de8f-43b7-912e-ce6f8a07549c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f0711e15-de8f-43b7-912e-ce6f8a07549c.png
+
+newmtl 6850839e-27d2-4553-91bf-00c02b20bb1e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6850839e-27d2-4553-91bf-00c02b20bb1e.png
+
+newmtl 7c525ae7-97e9-4602-a6c8-9041e1452097.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7c525ae7-97e9-4602-a6c8-9041e1452097.png
+
+newmtl 993967d2-734b-4983-8465-f5519f0fe5f6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\993967d2-734b-4983-8465-f5519f0fe5f6.png
+
+newmtl b69c1eb0-7a59-4df9-919c-e4ac2d53324d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b69c1eb0-7a59-4df9-919c-e4ac2d53324d.png
+
+newmtl 7f0ddb87-86fc-4302-98bf-2977ed52beaa.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7f0ddb87-86fc-4302-98bf-2977ed52beaa.png
+
+newmtl e591627e-7077-4d26-83aa-7ba73968959d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e591627e-7077-4d26-83aa-7ba73968959d.png
+
+newmtl 671538a1-386e-40dd-b248-b1cbc1af7bd2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\671538a1-386e-40dd-b248-b1cbc1af7bd2.png
+
+newmtl 6198c8c0-730c-42e3-9c53-79db078a6071.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6198c8c0-730c-42e3-9c53-79db078a6071.png
+
+newmtl f345d373-d9ad-490a-8aa1-3fcbf2113edf.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f345d373-d9ad-490a-8aa1-3fcbf2113edf.png
+
+newmtl ffb35672-bf53-461c-9ef8-20697f8885b9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ffb35672-bf53-461c-9ef8-20697f8885b9.png
+
+newmtl ed596821-e995-463f-8105-1593556b79ea.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ed596821-e995-463f-8105-1593556b79ea.png
+
+newmtl b1cddd90-c27b-439a-a3e7-24379afeccf0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b1cddd90-c27b-439a-a3e7-24379afeccf0.png
+
+newmtl e06c33cb-a460-460e-ae83-25b8652b7868.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e06c33cb-a460-460e-ae83-25b8652b7868.png
+
+newmtl ea633afa-3760-460a-951b-c0aeb77a3984.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ea633afa-3760-460a-951b-c0aeb77a3984.png
+
+newmtl fb209beb-fcf8-480a-b4ee-c7f29f938215.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fb209beb-fcf8-480a-b4ee-c7f29f938215.png
+
+newmtl f19a6843-595f-41bc-b296-c6d17d77cdea.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f19a6843-595f-41bc-b296-c6d17d77cdea.png
+
+newmtl 42df4011-0e21-4f0e-a447-22208835bf14.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\42df4011-0e21-4f0e-a447-22208835bf14.png
+
+newmtl 1bc05eb1-a16e-4d4c-b937-f6ae2a4f43bd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1bc05eb1-a16e-4d4c-b937-f6ae2a4f43bd.png
+
+newmtl 851ca6a6-c52d-4a1f-8c43-4ab576a1121c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\851ca6a6-c52d-4a1f-8c43-4ab576a1121c.png
+
+newmtl 1fe163cd-05c1-4c9e-b410-b9a3f1d972d3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1fe163cd-05c1-4c9e-b410-b9a3f1d972d3.png
+
+newmtl 3d3604fb-4c73-494e-8dad-cc868e119adc.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3d3604fb-4c73-494e-8dad-cc868e119adc.png
+
+newmtl 543fa1b3-5191-4333-9451-e29cc1f7c941.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\543fa1b3-5191-4333-9451-e29cc1f7c941.png
+
+newmtl 689860c4-f053-4f51-9474-7c8c3f84c44c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\689860c4-f053-4f51-9474-7c8c3f84c44c.png
+
+newmtl 5b70071e-4fff-4286-ac6b-458697a21ef9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5b70071e-4fff-4286-ac6b-458697a21ef9.png
+
+newmtl af4de7ae-d5bb-41ac-b04f-8dc83490e5f3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\af4de7ae-d5bb-41ac-b04f-8dc83490e5f3.png
+
+newmtl 1f09777a-d9a2-432d-9950-9c8b67f82c84.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1f09777a-d9a2-432d-9950-9c8b67f82c84.png
+
+newmtl baed9e1a-fa90-4186-b52d-9f68f615e4d2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\baed9e1a-fa90-4186-b52d-9f68f615e4d2.png
+
+newmtl 845304c1-07c8-41db-8f10-61c91a9dce47.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\845304c1-07c8-41db-8f10-61c91a9dce47.png
+
+newmtl 54b1819b-3195-4ea4-8965-5f52a3134b1e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\54b1819b-3195-4ea4-8965-5f52a3134b1e.png
+
+newmtl 24cf336c-fa6c-4d4a-98ca-059e145ad2cf.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\24cf336c-fa6c-4d4a-98ca-059e145ad2cf.png
+
+newmtl e2cbb346-cca9-4508-b07f-3c5d50a9a604.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e2cbb346-cca9-4508-b07f-3c5d50a9a604.png
+
+newmtl 75396ddb-1809-4787-9ea5-e061f9116d0a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\75396ddb-1809-4787-9ea5-e061f9116d0a.png
+
+newmtl 1f80260d-7e73-48dd-a425-5b880d79e1cb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1f80260d-7e73-48dd-a425-5b880d79e1cb.png
+
+newmtl 1bd3116f-0937-417e-9f25-a6d314016e31.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1bd3116f-0937-417e-9f25-a6d314016e31.png
+
+newmtl d7a6be84-742e-4bf3-a0d0-66d586d51cad.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d7a6be84-742e-4bf3-a0d0-66d586d51cad.png
+
+newmtl 0abaf5a6-7c29-4dd8-b83d-375f8d338681.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0abaf5a6-7c29-4dd8-b83d-375f8d338681.png
+
+newmtl 3379efd8-ca4b-43ce-8386-7fe1cb1bdea5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3379efd8-ca4b-43ce-8386-7fe1cb1bdea5.png
+
+newmtl 23a69549-ffbf-49c6-8b33-f92c6edc4382.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\23a69549-ffbf-49c6-8b33-f92c6edc4382.png
+
+newmtl 4a28ba27-12da-4f0e-ad8e-7d3c7200ecf3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4a28ba27-12da-4f0e-ad8e-7d3c7200ecf3.png
+
+newmtl aeff0952-4e72-4796-915d-18278cb9fdd8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\aeff0952-4e72-4796-915d-18278cb9fdd8.png
+
+newmtl 45dda17a-7a23-487f-96a1-b81b01628add.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\45dda17a-7a23-487f-96a1-b81b01628add.png
+
+newmtl db58b713-cd8a-4d78-b5f5-fce3cafb13c5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\db58b713-cd8a-4d78-b5f5-fce3cafb13c5.png
+
+newmtl 8c44127e-0571-46c2-b582-bec5d6712f6c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8c44127e-0571-46c2-b582-bec5d6712f6c.png
+
+newmtl b9deb321-408c-423e-809e-fe43bc1c92cc.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b9deb321-408c-423e-809e-fe43bc1c92cc.png
+
+newmtl 8753fcf4-7479-407e-b5ee-7620bc46023c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8753fcf4-7479-407e-b5ee-7620bc46023c.png
+
+newmtl 9a40fbc8-b32a-4c45-9012-1f904368cd5b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9a40fbc8-b32a-4c45-9012-1f904368cd5b.png
+
+newmtl e700ebf4-35bb-458e-8cef-3e7be7247c8b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e700ebf4-35bb-458e-8cef-3e7be7247c8b.png
+
+newmtl 08ee1586-2d23-4cea-8059-6abb2c6ee3fa.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\08ee1586-2d23-4cea-8059-6abb2c6ee3fa.png
+
+newmtl 7f13b2b1-79c0-4de2-8336-6e326210ac29.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7f13b2b1-79c0-4de2-8336-6e326210ac29.png
+
+newmtl 461ac4d1-af45-4525-96e4-aeb3610a9e9b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\461ac4d1-af45-4525-96e4-aeb3610a9e9b.png
+
+newmtl 887665df-ed60-46ef-a426-f6f70d1b56ca.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\887665df-ed60-46ef-a426-f6f70d1b56ca.png
+
+newmtl be8773fd-0146-4b0e-ab53-a9cfb071efc2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\be8773fd-0146-4b0e-ab53-a9cfb071efc2.png
+
+newmtl c63f8979-556c-49ec-9d78-9c8c3405c4c7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c63f8979-556c-49ec-9d78-9c8c3405c4c7.png
+
+newmtl 82838cd5-1236-4d30-a801-3a97d237eac6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\82838cd5-1236-4d30-a801-3a97d237eac6.png
+
+newmtl db2258d1-b532-4fe9-a6c9-b2eb152f65b3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\db2258d1-b532-4fe9-a6c9-b2eb152f65b3.png
+
+newmtl 615581d9-96ff-493d-939f-97f93ae3e849.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\615581d9-96ff-493d-939f-97f93ae3e849.png
+
+newmtl 99f67353-62bd-4100-9601-f333bbf43ba7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\99f67353-62bd-4100-9601-f333bbf43ba7.png
+
+newmtl f4b197ce-d4c5-44b1-9d2b-431e869569c8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f4b197ce-d4c5-44b1-9d2b-431e869569c8.png
+
+newmtl ddd53355-e400-43e3-8bb8-b47cb854bf54.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ddd53355-e400-43e3-8bb8-b47cb854bf54.png
+
+newmtl 7c6bc3ec-7c4a-4144-8e8a-4f1c51a1d808.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7c6bc3ec-7c4a-4144-8e8a-4f1c51a1d808.png
+
+newmtl fe02e21c-b1a3-4321-b80b-55d8490af112.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fe02e21c-b1a3-4321-b80b-55d8490af112.png
+
+newmtl e82e39f4-413e-4d16-90eb-b54450866453.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e82e39f4-413e-4d16-90eb-b54450866453.png
+
+newmtl 1aeecb3d-ce50-4d40-abc6-d93578ea4ddf.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1aeecb3d-ce50-4d40-abc6-d93578ea4ddf.png
+
+newmtl 1c175606-d7eb-4710-8b53-1656f0d16fad.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1c175606-d7eb-4710-8b53-1656f0d16fad.png
+
+newmtl ee332759-e6a3-4a62-a896-04fcfbd62288.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ee332759-e6a3-4a62-a896-04fcfbd62288.png
+
+newmtl 5d031c6a-08de-4c20-ac84-14e06e53cd78.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5d031c6a-08de-4c20-ac84-14e06e53cd78.png
+
+newmtl 44ff7d67-caee-4b0f-96d7-1a3848342864.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\44ff7d67-caee-4b0f-96d7-1a3848342864.png
+
+newmtl 212fcde8-fa5c-445c-bf96-bfbccff7bf61.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\212fcde8-fa5c-445c-bf96-bfbccff7bf61.png
+
+newmtl 8849e1ab-5e57-48e5-9aae-fca8d31f1e4b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8849e1ab-5e57-48e5-9aae-fca8d31f1e4b.png
+
+newmtl 0ebd7b94-93da-4359-846c-1aab5f40d7bd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0ebd7b94-93da-4359-846c-1aab5f40d7bd.png
+
+newmtl c42477b3-6147-4a5e-a016-ecb2e2e647f5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c42477b3-6147-4a5e-a016-ecb2e2e647f5.png
+
+newmtl 2dc7bd92-1288-4ea2-9f42-8de095cef4bb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2dc7bd92-1288-4ea2-9f42-8de095cef4bb.png
+
+newmtl 2504ab7a-7619-4e7c-a0b7-734b6620fe53.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2504ab7a-7619-4e7c-a0b7-734b6620fe53.png
+
+newmtl 0a6c629b-3a6d-4075-b351-bc59f43b6bb5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0a6c629b-3a6d-4075-b351-bc59f43b6bb5.png
+
+newmtl eb11577f-0d95-4010-b80b-c17c6dea59dc.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\eb11577f-0d95-4010-b80b-c17c6dea59dc.png
+
+newmtl 36c58a7e-ae35-4082-9c02-32e0377928ae.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\36c58a7e-ae35-4082-9c02-32e0377928ae.png
+
+newmtl 9b94b921-ad24-49bd-9576-930a37cdc1bf.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9b94b921-ad24-49bd-9576-930a37cdc1bf.png
+
+newmtl 087980e3-c784-49fa-8798-aed5716edeed.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\087980e3-c784-49fa-8798-aed5716edeed.png
+
+newmtl 5b7d4160-61df-4566-89b3-98d9641b3ab0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5b7d4160-61df-4566-89b3-98d9641b3ab0.png
+
+newmtl cfc91ba3-cbf9-4ddf-b5d9-7c5e9855cd7f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cfc91ba3-cbf9-4ddf-b5d9-7c5e9855cd7f.png
+
+newmtl 4d5e8238-15bf-459a-aa7e-771aab864778.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4d5e8238-15bf-459a-aa7e-771aab864778.png
+
+newmtl d5204a1c-46bf-4efd-a4ee-a618cbb4df00.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d5204a1c-46bf-4efd-a4ee-a618cbb4df00.png
+
+newmtl 61f783ce-009f-420e-82c1-325e507659aa.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\61f783ce-009f-420e-82c1-325e507659aa.png
+
+newmtl 7406de84-0d52-4c01-94d8-cf46d8587bdb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7406de84-0d52-4c01-94d8-cf46d8587bdb.png
+
+newmtl 43ee16c4-e7f4-4d3a-881e-60979cb2c769.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\43ee16c4-e7f4-4d3a-881e-60979cb2c769.png
+
+newmtl 115ebb5c-c65d-4f0e-8ea3-3ef7b4ff4da0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\115ebb5c-c65d-4f0e-8ea3-3ef7b4ff4da0.png
+
+newmtl c63a3bb7-7dbf-4d6b-ab49-091f3b50ccb1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c63a3bb7-7dbf-4d6b-ab49-091f3b50ccb1.png
+
+newmtl 79ba9b80-cbec-44ed-b52e-4459fc61af12.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\79ba9b80-cbec-44ed-b52e-4459fc61af12.png
+
+newmtl d30a5f91-d22c-4096-b951-108fd2cdc070.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d30a5f91-d22c-4096-b951-108fd2cdc070.png
+
+newmtl 83064be8-1f96-4d28-bb10-8b2b175fec8b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\83064be8-1f96-4d28-bb10-8b2b175fec8b.png
+
+newmtl 6e1ed519-1ff0-42d6-b840-42e62b3c4344.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6e1ed519-1ff0-42d6-b840-42e62b3c4344.png
+
+newmtl 1018f057-a446-495c-b01a-b836b02f9599.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1018f057-a446-495c-b01a-b836b02f9599.png
+
+newmtl a7294dd1-be72-48b8-bb8b-c6ed047d1341.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a7294dd1-be72-48b8-bb8b-c6ed047d1341.png
+
+newmtl de096f43-216a-43c2-85a0-e83ec2003136.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\de096f43-216a-43c2-85a0-e83ec2003136.png
+
+newmtl 83146d8e-0735-4dcb-ad01-82d6ec890c67.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\83146d8e-0735-4dcb-ad01-82d6ec890c67.png
+
+newmtl 5ff317c4-63ce-439a-9b7f-00bd1130918c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5ff317c4-63ce-439a-9b7f-00bd1130918c.png
+
+newmtl fa7dcc03-d28d-4ff6-8445-9102fa222946.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fa7dcc03-d28d-4ff6-8445-9102fa222946.png
+
+newmtl 97fdfb6f-c77b-4f60-92bf-ee3685f9a4ff.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\97fdfb6f-c77b-4f60-92bf-ee3685f9a4ff.png
+
+newmtl 79600a3a-fde5-435d-b88c-f8e38533c6a4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\79600a3a-fde5-435d-b88c-f8e38533c6a4.png
+
+newmtl f6b1b6cd-2c64-421c-a80f-a193199a1d70.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f6b1b6cd-2c64-421c-a80f-a193199a1d70.png
+
+newmtl dc265ffe-dc05-412f-9854-95a65657b677.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\dc265ffe-dc05-412f-9854-95a65657b677.png
+
+newmtl 3cf1176b-fad3-4e00-914f-cc62876ac194.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3cf1176b-fad3-4e00-914f-cc62876ac194.png
+
+newmtl 9de58df5-7dfb-4c60-9061-f2d5d69a5271.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9de58df5-7dfb-4c60-9061-f2d5d69a5271.png
+
+newmtl b239bafa-3e13-4222-a07a-6929eab9ff39.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b239bafa-3e13-4222-a07a-6929eab9ff39.png
+
+newmtl c79bec64-40b0-4377-835d-b5feefc638d6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c79bec64-40b0-4377-835d-b5feefc638d6.png
+
+newmtl 1aa33805-30ea-48bf-a67e-3843c657cb89.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1aa33805-30ea-48bf-a67e-3843c657cb89.png
+
+newmtl 2a773d6f-21f9-4152-9fc1-94645a39900e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2a773d6f-21f9-4152-9fc1-94645a39900e.png
+
+newmtl aaa35d18-09f0-457f-999e-84ca1ca75e27.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\aaa35d18-09f0-457f-999e-84ca1ca75e27.png
+
+newmtl 3714d4cb-a099-482a-9a48-ba788f07fd7d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3714d4cb-a099-482a-9a48-ba788f07fd7d.png
+
+newmtl 3d32662a-e7a6-4161-add6-0fdf9e1a1b27.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3d32662a-e7a6-4161-add6-0fdf9e1a1b27.png
+
+newmtl bf9dffea-1b1a-4750-933b-0658250e2824.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\bf9dffea-1b1a-4750-933b-0658250e2824.png
+
+newmtl 54f2d42e-6257-4b3b-a8ca-72c49b7c8b25.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\54f2d42e-6257-4b3b-a8ca-72c49b7c8b25.png
+
+newmtl bd129f61-ff12-4e9c-ae63-f1eff8c3e029.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\bd129f61-ff12-4e9c-ae63-f1eff8c3e029.png
+
+newmtl d218ab3e-86ed-41c2-97cc-cc03b202150a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d218ab3e-86ed-41c2-97cc-cc03b202150a.png
+
+newmtl 112161d0-5491-4e20-bedf-3b68825403f5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\112161d0-5491-4e20-bedf-3b68825403f5.png
+
+newmtl 1250f61b-8a84-4d60-8fab-f29b9dbe6d2e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1250f61b-8a84-4d60-8fab-f29b9dbe6d2e.png
+
+newmtl 9a1210fb-de76-4eb8-870c-c9b060e1d40e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9a1210fb-de76-4eb8-870c-c9b060e1d40e.png
+
+newmtl f74f4188-a624-421c-a4c1-1c3d5aba3fb1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f74f4188-a624-421c-a4c1-1c3d5aba3fb1.png
+
+newmtl deabe373-1317-4184-afca-e61cd2e2547a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\deabe373-1317-4184-afca-e61cd2e2547a.png
+
+newmtl e0f9aeea-5637-48ed-ad5b-000f67bbbc0e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e0f9aeea-5637-48ed-ad5b-000f67bbbc0e.png
+
+newmtl d8363e96-1adb-4a0c-93a0-ebe20b6b791d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d8363e96-1adb-4a0c-93a0-ebe20b6b791d.png
+
+newmtl 50f81e9f-fe7c-4d72-a3d5-3c661e343fb5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\50f81e9f-fe7c-4d72-a3d5-3c661e343fb5.png
+
+newmtl a9d33286-f433-4cb8-a041-b182cbfcd14b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a9d33286-f433-4cb8-a041-b182cbfcd14b.png
+
+newmtl 6246dcc7-9ff1-4f08-9c26-8175d144f08a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6246dcc7-9ff1-4f08-9c26-8175d144f08a.png
+
+newmtl 982efe56-d2c0-4faf-bff4-b9c74d07c583.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\982efe56-d2c0-4faf-bff4-b9c74d07c583.png
+
+newmtl fb76b1ca-8bb0-4791-a9f3-be5380610468.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fb76b1ca-8bb0-4791-a9f3-be5380610468.png
+
+newmtl 12a93a4b-b8e8-4e94-8db4-061ebe49b705.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\12a93a4b-b8e8-4e94-8db4-061ebe49b705.png
+
+newmtl f41c636e-d313-4068-b8c8-ae65bd8cf0c1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f41c636e-d313-4068-b8c8-ae65bd8cf0c1.png
+
+newmtl 27025c4b-e359-4c42-801f-877f0aa07479.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\27025c4b-e359-4c42-801f-877f0aa07479.png
+
+newmtl 6616ad37-0713-4b4a-85a2-2ebcd6869469.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6616ad37-0713-4b4a-85a2-2ebcd6869469.png
+
+newmtl 1de7d97c-9f75-441e-b0da-67b7230b94e2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1de7d97c-9f75-441e-b0da-67b7230b94e2.png
+
+newmtl d6bb983a-12ba-4dbc-ad9a-d89f6f020c65.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d6bb983a-12ba-4dbc-ad9a-d89f6f020c65.png
+
+newmtl 0e60de98-443e-4650-b339-f66622a1cb16.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0e60de98-443e-4650-b339-f66622a1cb16.png
+
+newmtl 53cb712e-7f69-4e27-9e4c-928acee4cd68.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\53cb712e-7f69-4e27-9e4c-928acee4cd68.png
+
+newmtl 3fb2c5f5-3cc1-4d6c-b00d-cb190240ef29.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3fb2c5f5-3cc1-4d6c-b00d-cb190240ef29.png
+
+newmtl 3debe71f-4fa1-443f-9fca-e3b0c33571fb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3debe71f-4fa1-443f-9fca-e3b0c33571fb.png
+
+newmtl 33fc0ad9-babb-4e0d-93ec-b53c58b423a4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\33fc0ad9-babb-4e0d-93ec-b53c58b423a4.png
+
+newmtl cedf9e73-bdf9-4e63-9c26-c0a7783957be.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cedf9e73-bdf9-4e63-9c26-c0a7783957be.png
+
+newmtl 00a68fc3-811f-4e28-8637-90d1ae010bbd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\00a68fc3-811f-4e28-8637-90d1ae010bbd.png
+
+newmtl c21811d6-2928-4485-837b-7d64ff736b80.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c21811d6-2928-4485-837b-7d64ff736b80.png
+
+newmtl 29209529-fa32-464e-8795-0451be300bac.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\29209529-fa32-464e-8795-0451be300bac.png
+
+newmtl 8f839318-6842-4e00-863c-e1907ecd01e2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8f839318-6842-4e00-863c-e1907ecd01e2.png
+
+newmtl 3615665c-bb71-4a4b-a719-6ec18c33b1e7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3615665c-bb71-4a4b-a719-6ec18c33b1e7.png
+
+newmtl 7eeb81b6-110a-48a4-8a74-620204c388f5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7eeb81b6-110a-48a4-8a74-620204c388f5.png
+
+newmtl 5dce0c95-8dfb-4704-87fb-2bb7dd017737.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5dce0c95-8dfb-4704-87fb-2bb7dd017737.png
+
+newmtl 9f44db0e-733e-4732-bade-604da2b5f365.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9f44db0e-733e-4732-bade-604da2b5f365.png
+
+newmtl 52f93221-96c0-4a43-8d98-35f009b5c8ea.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\52f93221-96c0-4a43-8d98-35f009b5c8ea.png
+
+newmtl f86b06e2-b85f-4ba5-8bb1-63a6709a7c54.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f86b06e2-b85f-4ba5-8bb1-63a6709a7c54.png
+
+newmtl 7cb44abf-113f-40ff-b289-f4e44e7f7af8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7cb44abf-113f-40ff-b289-f4e44e7f7af8.png
+
+newmtl 5d4e174b-d09d-47f0-b1fb-16cdc9e921ff.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5d4e174b-d09d-47f0-b1fb-16cdc9e921ff.png
+
+newmtl 226bc4ba-74a3-4d38-958a-428fad213e35.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\226bc4ba-74a3-4d38-958a-428fad213e35.png
+
+newmtl 5a45b9c8-db1d-4553-b6c6-d5a68f86cec4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5a45b9c8-db1d-4553-b6c6-d5a68f86cec4.png
+
+newmtl 34a62279-6b52-4bde-bda9-2d3be76f01ea.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\34a62279-6b52-4bde-bda9-2d3be76f01ea.png
+
+newmtl 382b94bd-6fda-45de-ab6d-54fff5f23971.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\382b94bd-6fda-45de-ab6d-54fff5f23971.png
+
+newmtl 21f9ba31-cbb8-49c4-96aa-9ff362c5ae30.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\21f9ba31-cbb8-49c4-96aa-9ff362c5ae30.png
+
+newmtl 5e2354f0-eb9b-487d-b03e-85f086498d1c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5e2354f0-eb9b-487d-b03e-85f086498d1c.png
+
+newmtl b22d1c26-b22b-4707-bdb4-6d95a3bae196.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b22d1c26-b22b-4707-bdb4-6d95a3bae196.png
+
+newmtl 51721db7-a034-4d68-be9f-34b8a009916c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\51721db7-a034-4d68-be9f-34b8a009916c.png
+
+newmtl 2ae97daa-0865-4392-a01e-8e5636ed36fb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2ae97daa-0865-4392-a01e-8e5636ed36fb.png
+
+newmtl afb5b869-2642-41e0-8ed7-a3080e2bdf75.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\afb5b869-2642-41e0-8ed7-a3080e2bdf75.png
+
+newmtl 1b23fd5e-e115-467f-b38f-a2ff78c139be.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1b23fd5e-e115-467f-b38f-a2ff78c139be.png
+
+newmtl 3d810dd3-5edf-47df-b48c-0e42264399d9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3d810dd3-5edf-47df-b48c-0e42264399d9.png
+
+newmtl 8f6065d6-9d79-4b63-8013-4213c7d19931.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8f6065d6-9d79-4b63-8013-4213c7d19931.png
+
+newmtl 6f7ae88c-9800-43d3-bfa7-9a694eb3a660.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6f7ae88c-9800-43d3-bfa7-9a694eb3a660.png
+
+newmtl 0ff6dd1d-327a-40ca-9b7a-5ef243e824a2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0ff6dd1d-327a-40ca-9b7a-5ef243e824a2.png
+
+newmtl 5ec057fd-da2c-48c8-967e-04757b21357b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5ec057fd-da2c-48c8-967e-04757b21357b.png
+
+newmtl dfa8980d-5ed4-4027-a0c3-33b0db1794c4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\dfa8980d-5ed4-4027-a0c3-33b0db1794c4.png
+
+newmtl 4495a29b-d169-4b95-ae22-088893cbe9cb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4495a29b-d169-4b95-ae22-088893cbe9cb.png
+
+newmtl 023d7785-23e2-43ba-baba-9f508a370fdc.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\023d7785-23e2-43ba-baba-9f508a370fdc.png
+
+newmtl 878cc0cb-6c13-41d9-b0d0-e881c1cd9d94.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\878cc0cb-6c13-41d9-b0d0-e881c1cd9d94.png
+
+newmtl a5efc03e-21af-40ef-a532-70b20a304677.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a5efc03e-21af-40ef-a532-70b20a304677.png
+
+newmtl 00ac77c3-56e7-4336-a7a1-c4db4a56a075.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\00ac77c3-56e7-4336-a7a1-c4db4a56a075.png
+
+newmtl 14cddb03-2d84-4d16-a066-083cbfaf964a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\14cddb03-2d84-4d16-a066-083cbfaf964a.png
+
+newmtl 26512205-7f8e-4718-b7ec-19f9ef8c1b03.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\26512205-7f8e-4718-b7ec-19f9ef8c1b03.png
+
+newmtl c014638c-8d22-45e4-b12c-c524cf1e5c3a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c014638c-8d22-45e4-b12c-c524cf1e5c3a.png
+
+newmtl 26c1f497-d023-44e5-8cf4-dc7abe859848.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\26c1f497-d023-44e5-8cf4-dc7abe859848.png
+
+newmtl f1f50070-2950-42a8-86d8-48409989d1f1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f1f50070-2950-42a8-86d8-48409989d1f1.png
+
+newmtl 2bbcfa1e-601a-46a6-857a-1fb1f1eb626e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2bbcfa1e-601a-46a6-857a-1fb1f1eb626e.png
+
+newmtl 67e6e9a1-9473-4317-b496-c015baa194d5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\67e6e9a1-9473-4317-b496-c015baa194d5.png
+
+newmtl f77fb3f6-b8f6-4e52-b8dc-5a088b64bb04.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f77fb3f6-b8f6-4e52-b8dc-5a088b64bb04.png
+
+newmtl 040e4332-2da7-4ff9-a5a4-d77bb2de3668.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\040e4332-2da7-4ff9-a5a4-d77bb2de3668.png
+
+newmtl 9dfa0ec5-2a14-4d6c-92c5-d14f293e05cf.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9dfa0ec5-2a14-4d6c-92c5-d14f293e05cf.png
+
+newmtl af4e9fdc-07d9-4609-ad5b-81d18af3e07e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\af4e9fdc-07d9-4609-ad5b-81d18af3e07e.png
+
+newmtl b54cdbb7-bcd1-40e6-b0f2-6ddfa08f836c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b54cdbb7-bcd1-40e6-b0f2-6ddfa08f836c.png
+
+newmtl 5f6ae09e-3c9d-498b-bc3a-bb20f0ddd180.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5f6ae09e-3c9d-498b-bc3a-bb20f0ddd180.png
+
+newmtl 9456b8ef-63d8-4f12-801f-b80671baef77.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9456b8ef-63d8-4f12-801f-b80671baef77.png
+
+newmtl e377e692-ced4-4e59-9252-b6f92132b37b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e377e692-ced4-4e59-9252-b6f92132b37b.png
+
+newmtl a28c7781-cc6e-4b90-8a40-0875ced18331.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a28c7781-cc6e-4b90-8a40-0875ced18331.png
+
+newmtl 3eaf01a2-c8a3-4e87-85c4-9471e27dd449.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3eaf01a2-c8a3-4e87-85c4-9471e27dd449.png
+
+newmtl b55d089d-eef0-49ab-9cc4-50a73868a82e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b55d089d-eef0-49ab-9cc4-50a73868a82e.png
+
+newmtl 1a76141d-127f-486f-a1f9-3cc1b9b89a04.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1a76141d-127f-486f-a1f9-3cc1b9b89a04.png
+
+newmtl e6998104-f42f-49d2-a0d6-13c7c9ceae32.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e6998104-f42f-49d2-a0d6-13c7c9ceae32.png
+
+newmtl 7c0584dd-f36c-43de-9694-3239bdf663ec.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7c0584dd-f36c-43de-9694-3239bdf663ec.png
+
+newmtl 6639c2c0-9821-4481-8d67-96cc0c959621.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6639c2c0-9821-4481-8d67-96cc0c959621.png
+
+newmtl a38b6e40-d89f-4a42-8b3e-edae8152de69.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a38b6e40-d89f-4a42-8b3e-edae8152de69.png
+
+newmtl 6043dfd5-e315-4181-8cb2-26b688493602.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6043dfd5-e315-4181-8cb2-26b688493602.png
+
+newmtl 259610f1-82cd-42af-9245-f804a16b1d88.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\259610f1-82cd-42af-9245-f804a16b1d88.png
+
+newmtl 3f291fab-6bb0-4b97-b746-9f2570f7e9f8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3f291fab-6bb0-4b97-b746-9f2570f7e9f8.png
+
+newmtl 813ed65b-45aa-4589-abf1-54215af3183a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\813ed65b-45aa-4589-abf1-54215af3183a.png
+
+newmtl 0f5254a1-de0e-496a-b8bb-ca7edf61203c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0f5254a1-de0e-496a-b8bb-ca7edf61203c.png
+
+newmtl 2b641ee4-9809-46f1-a649-54a1cc16eb11.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2b641ee4-9809-46f1-a649-54a1cc16eb11.png
+
+newmtl dc40c2b4-640f-462c-90c3-d4c589567c3b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\dc40c2b4-640f-462c-90c3-d4c589567c3b.png
+
+newmtl ded8448c-8873-4faa-b18d-44859cba15d1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ded8448c-8873-4faa-b18d-44859cba15d1.png
+
+newmtl 7a8f4d3f-fe88-418b-ab9a-74ba1373b6ef.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7a8f4d3f-fe88-418b-ab9a-74ba1373b6ef.png
+
+newmtl ac671413-a2c1-4c9f-97ce-92577d343c05.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ac671413-a2c1-4c9f-97ce-92577d343c05.png
+
+newmtl 5777167c-51a2-49b6-b2fb-185dc8736d0f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5777167c-51a2-49b6-b2fb-185dc8736d0f.png
+
+newmtl 86de2553-edc5-4b3f-902b-4e7ba347bb18.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\86de2553-edc5-4b3f-902b-4e7ba347bb18.png
+
+newmtl 80753acd-6bda-4030-83d7-c6fcef875e45.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\80753acd-6bda-4030-83d7-c6fcef875e45.png
+
+newmtl 5cad5572-d3e4-4ab2-b9c7-8b4268ac602c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5cad5572-d3e4-4ab2-b9c7-8b4268ac602c.png
+
+newmtl 7bcdc289-3af0-455b-ac07-2b264f39fd4d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7bcdc289-3af0-455b-ac07-2b264f39fd4d.png
+
+newmtl 3a34947c-5492-4993-bc6b-828e773b45df.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3a34947c-5492-4993-bc6b-828e773b45df.png
+
+newmtl 4326f00d-ed45-4d9f-90b0-388b0f6351ba.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4326f00d-ed45-4d9f-90b0-388b0f6351ba.png
+
+newmtl 0539a609-d855-470e-9c95-d1c17dda6598.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0539a609-d855-470e-9c95-d1c17dda6598.png
+
+newmtl d3903254-36fe-4338-b29a-67e9dd511691.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d3903254-36fe-4338-b29a-67e9dd511691.png
+
+newmtl 549d1900-7862-4637-a92d-03e688b52070.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\549d1900-7862-4637-a92d-03e688b52070.png
+
+newmtl a6ae3a56-d233-4ced-b7ec-c2012342760a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a6ae3a56-d233-4ced-b7ec-c2012342760a.png
+
+newmtl bdfc7bbc-1e1e-42b6-804e-44bd0c02ef00.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\bdfc7bbc-1e1e-42b6-804e-44bd0c02ef00.png
+
+newmtl cf1e6f69-0d46-493f-b2e9-0a6d3aac1f15.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cf1e6f69-0d46-493f-b2e9-0a6d3aac1f15.png
+
+newmtl 88c07787-d195-42e8-ae7e-229ef8abce0f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\88c07787-d195-42e8-ae7e-229ef8abce0f.png
+
+newmtl 97e4cc10-b747-4f31-b73b-d102f539f375.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\97e4cc10-b747-4f31-b73b-d102f539f375.png
+
+newmtl 614306b3-31a2-4d07-999e-47ac8357652e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\614306b3-31a2-4d07-999e-47ac8357652e.png
+
+newmtl cc6ac664-3aa2-4813-a74d-c3441dce7723.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cc6ac664-3aa2-4813-a74d-c3441dce7723.png
+
+newmtl f7fabb3e-4959-40db-b372-d4134a642307.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f7fabb3e-4959-40db-b372-d4134a642307.png
+
+newmtl c195c980-9196-4356-8561-2cb0bb596b41.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c195c980-9196-4356-8561-2cb0bb596b41.png
+
+newmtl f6ec03b0-716e-4768-bb6f-f695f9627ddc.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f6ec03b0-716e-4768-bb6f-f695f9627ddc.png
+
+newmtl 34b56f0a-80c9-4fed-a5d9-3489823ef2be.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\34b56f0a-80c9-4fed-a5d9-3489823ef2be.png
+
+newmtl 9058d3a4-7dca-404e-9db3-4ab2d802826e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9058d3a4-7dca-404e-9db3-4ab2d802826e.png
+
+newmtl 43d6308b-ec05-4e3a-a17b-9d88dd701c17.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\43d6308b-ec05-4e3a-a17b-9d88dd701c17.png
+
+newmtl e5941b0a-9ff7-4417-8a24-07c7c8f7504a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e5941b0a-9ff7-4417-8a24-07c7c8f7504a.png
+
+newmtl d8dabce3-99f6-4a4e-a35e-ad9eb97dbf6d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d8dabce3-99f6-4a4e-a35e-ad9eb97dbf6d.png
+
+newmtl a3e0d0bf-0e94-482f-9bfd-cb36caacd618.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a3e0d0bf-0e94-482f-9bfd-cb36caacd618.png
+
+newmtl 18044f04-013f-4027-942c-acfafa875f33.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\18044f04-013f-4027-942c-acfafa875f33.png
+
+newmtl 04d143b6-3a07-4aa9-bd53-c676c2a4833f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\04d143b6-3a07-4aa9-bd53-c676c2a4833f.png
+
+newmtl cf3e9cb6-18f5-43e9-9226-a6bb8c41c0dd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cf3e9cb6-18f5-43e9-9226-a6bb8c41c0dd.png
+
+newmtl 1b537801-a2b3-43b1-bae3-bf072eb46638.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1b537801-a2b3-43b1-bae3-bf072eb46638.png
+
+newmtl 41fffbbd-3557-425f-86aa-9c7c71c4cd97.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\41fffbbd-3557-425f-86aa-9c7c71c4cd97.png
+
+newmtl fdb7796d-e305-4b04-ac4d-e31694159f7e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fdb7796d-e305-4b04-ac4d-e31694159f7e.png
+
+newmtl b7a16dd8-41f6-49d1-8ad3-68b42e706f33.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b7a16dd8-41f6-49d1-8ad3-68b42e706f33.png
+
+newmtl 5c027370-2ef5-42eb-a630-c75edcf9c187.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5c027370-2ef5-42eb-a630-c75edcf9c187.png
+
+newmtl e1f867d5-c143-49cf-9b98-d8d4ad6f0803.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e1f867d5-c143-49cf-9b98-d8d4ad6f0803.png
+
+newmtl 3d63f450-40ab-44b2-a9a9-6e6a7a915acd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3d63f450-40ab-44b2-a9a9-6e6a7a915acd.png
+
+newmtl 59065137-ad02-471b-8d12-6c6e92ab9766.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\59065137-ad02-471b-8d12-6c6e92ab9766.png
+
+newmtl 78cde5df-2dc7-448a-afd6-3a06d1829c37.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\78cde5df-2dc7-448a-afd6-3a06d1829c37.png
+
+newmtl 0cc37b8b-a652-49f5-a9d5-b1995557902a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0cc37b8b-a652-49f5-a9d5-b1995557902a.png
+
+newmtl b3d4b782-b95e-4011-a72d-0899bb4b00f9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b3d4b782-b95e-4011-a72d-0899bb4b00f9.png
+
+newmtl 9b69b467-f7f6-4924-8160-36ab74a67e84.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9b69b467-f7f6-4924-8160-36ab74a67e84.png
+
+newmtl a41bbceb-d96b-400a-8489-a8a648fddf7f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a41bbceb-d96b-400a-8489-a8a648fddf7f.png
+
+newmtl 0f512906-e390-48cd-8c7a-6824453e6b3f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0f512906-e390-48cd-8c7a-6824453e6b3f.png
+
+newmtl 73533c37-8639-4658-a1e4-5057057246d7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\73533c37-8639-4658-a1e4-5057057246d7.png
+
+newmtl 1bd75ca2-6696-4899-bef4-746463de3c5a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1bd75ca2-6696-4899-bef4-746463de3c5a.png
+
+newmtl e067bb51-5f11-4040-a43f-61e072ebeaf7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e067bb51-5f11-4040-a43f-61e072ebeaf7.png
+
+newmtl ef1fa514-d60b-45f6-98a6-c58a67175b6c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ef1fa514-d60b-45f6-98a6-c58a67175b6c.png
+
+newmtl c3575802-d36b-465a-80e4-0249d15c8ef5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c3575802-d36b-465a-80e4-0249d15c8ef5.png
+
+newmtl 31239ceb-20f4-4047-b3b8-2c3613f7faa1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\31239ceb-20f4-4047-b3b8-2c3613f7faa1.png
+
+newmtl 86118106-4ab4-4142-841a-42f5d1dc6782.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\86118106-4ab4-4142-841a-42f5d1dc6782.png
+
+newmtl 34488d1f-3803-494e-8a92-62cecab7ec3a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\34488d1f-3803-494e-8a92-62cecab7ec3a.png
+
+newmtl d3d76d13-fefc-4dca-b459-1647bcab85c8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d3d76d13-fefc-4dca-b459-1647bcab85c8.png
+
+newmtl c4049a5e-d832-41be-92ae-519f10bc59ff.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c4049a5e-d832-41be-92ae-519f10bc59ff.png
+
+newmtl d50e4911-aa8d-493b-a66d-a51c13baeb08.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d50e4911-aa8d-493b-a66d-a51c13baeb08.png
+
+newmtl 1e075bd0-0234-4514-9988-9df2b6789973.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1e075bd0-0234-4514-9988-9df2b6789973.png
+
+newmtl ea899bff-f3eb-49c5-b82a-e5b89eaf322e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ea899bff-f3eb-49c5-b82a-e5b89eaf322e.png
+
+newmtl a9711cd8-dee7-4d95-8fda-3b6f432a1c11.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a9711cd8-dee7-4d95-8fda-3b6f432a1c11.png
+
+newmtl 8240071c-39b0-40a3-a29f-79b2fc630afd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8240071c-39b0-40a3-a29f-79b2fc630afd.png
+
+newmtl 13c1ec1d-5b6a-4a77-af92-a6fb84557bd5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\13c1ec1d-5b6a-4a77-af92-a6fb84557bd5.png
+
+newmtl 99103ce4-00b5-4b1b-8ee6-c9bbf84797eb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\99103ce4-00b5-4b1b-8ee6-c9bbf84797eb.png
+
+newmtl 0f04f674-0e48-4aa3-82d3-f9b1266af6c5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0f04f674-0e48-4aa3-82d3-f9b1266af6c5.png
+
+newmtl e16dfc49-2549-4226-b302-720e9f6e5413.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e16dfc49-2549-4226-b302-720e9f6e5413.png
+
+newmtl 044d8b83-66ad-421e-a416-670b6df2601d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\044d8b83-66ad-421e-a416-670b6df2601d.png
+
+newmtl 16b6a1fc-6dfa-4d0a-9413-bcabe9dbf63c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\16b6a1fc-6dfa-4d0a-9413-bcabe9dbf63c.png
+
+newmtl 9f65fbb5-2204-420e-b6c4-3ab32cf0476a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9f65fbb5-2204-420e-b6c4-3ab32cf0476a.png
+
+newmtl 37db4d92-1dd2-4582-9a4f-ca8cca38b2ae.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\37db4d92-1dd2-4582-9a4f-ca8cca38b2ae.png
+
+newmtl cce5365d-4c58-40bb-a004-b36e9bd9708a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cce5365d-4c58-40bb-a004-b36e9bd9708a.png
+
+newmtl 422e8c35-5fd2-42ca-b677-e2d3edc2ec1c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\422e8c35-5fd2-42ca-b677-e2d3edc2ec1c.png
+
+newmtl 93a62301-b478-4230-9395-2a7d8d42e0e9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\93a62301-b478-4230-9395-2a7d8d42e0e9.png
+
+newmtl 12c7ddc7-7528-4d99-86cd-ab4c347cc540.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\12c7ddc7-7528-4d99-86cd-ab4c347cc540.png
+
+newmtl f5a83199-94f4-4547-8d6d-9bba79b19423.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f5a83199-94f4-4547-8d6d-9bba79b19423.png
+
+newmtl fa472cb4-b0b4-4aea-bbdf-6c728eec6a69.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fa472cb4-b0b4-4aea-bbdf-6c728eec6a69.png
+
+newmtl b05fdd87-90a7-4837-92cf-1aae287df19f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b05fdd87-90a7-4837-92cf-1aae287df19f.png
+
+newmtl 0f2e68bb-8082-4954-9633-8f73559c8706.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0f2e68bb-8082-4954-9633-8f73559c8706.png
+
+newmtl c76d2844-359d-48bf-9140-c3381a2326d0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c76d2844-359d-48bf-9140-c3381a2326d0.png
+
+newmtl 3573c278-feb4-480b-a93f-0ddfce3b5b6b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3573c278-feb4-480b-a93f-0ddfce3b5b6b.png
+
+newmtl c1fa9932-9974-47eb-bf6e-c80d10ba8628.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c1fa9932-9974-47eb-bf6e-c80d10ba8628.png
+
+newmtl 4e4c751b-e622-4956-9b3e-c40c2bf1951b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4e4c751b-e622-4956-9b3e-c40c2bf1951b.png
+
+newmtl 10cad682-22f0-4c23-b29d-24988a753e3b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\10cad682-22f0-4c23-b29d-24988a753e3b.png
+
+newmtl 2b7e1d61-4b93-4fc8-b08c-00d3b9c5529d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2b7e1d61-4b93-4fc8-b08c-00d3b9c5529d.png
+
+newmtl 6f83164c-84e3-4798-a655-599336135159.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6f83164c-84e3-4798-a655-599336135159.png
+
+newmtl 8ed66694-6b2f-40e1-b0f0-a83f0b814b7f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8ed66694-6b2f-40e1-b0f0-a83f0b814b7f.png
+
+newmtl cb92e254-c3de-46b4-b961-87bb16d0f2b4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cb92e254-c3de-46b4-b961-87bb16d0f2b4.png
+
+newmtl 6200944e-79ea-480b-adf9-dedc540334a1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6200944e-79ea-480b-adf9-dedc540334a1.png
+
+newmtl b388341b-4663-46e4-a0fc-39d676a43df5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b388341b-4663-46e4-a0fc-39d676a43df5.png
+
+newmtl 601ad333-7e6d-46b9-af6a-dba9364a7f17.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\601ad333-7e6d-46b9-af6a-dba9364a7f17.png
+
+newmtl 5254214c-88a7-4abf-9501-d57cf6650d83.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5254214c-88a7-4abf-9501-d57cf6650d83.png
+
+newmtl f38e785a-c760-42e4-8f78-91db5075f438.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f38e785a-c760-42e4-8f78-91db5075f438.png
+
+newmtl c3b693a5-37f5-4820-9799-1414d768d125.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c3b693a5-37f5-4820-9799-1414d768d125.png
+
+newmtl edb1db6f-9070-41bc-8cf6-4538f6e8d0e9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\edb1db6f-9070-41bc-8cf6-4538f6e8d0e9.png
+
+newmtl ed2db573-467e-437e-8a21-678629699933.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ed2db573-467e-437e-8a21-678629699933.png
+
+newmtl e0364134-5b57-4cba-b8e1-8a0650db5b26.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e0364134-5b57-4cba-b8e1-8a0650db5b26.png
+
+newmtl a886901d-28b0-44f6-b3f6-545ab494fb6b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a886901d-28b0-44f6-b3f6-545ab494fb6b.png
+
+newmtl 2e667701-b8ea-4380-8e5d-db4038b71fa3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2e667701-b8ea-4380-8e5d-db4038b71fa3.png
+
+newmtl 06111f4e-34e4-4f15-9ae1-e2b7f0e2e0a6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\06111f4e-34e4-4f15-9ae1-e2b7f0e2e0a6.png
+
+newmtl 207e5afa-d047-49a8-839e-8a8caeed378b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\207e5afa-d047-49a8-839e-8a8caeed378b.png
+
+newmtl 0764f017-ef0f-4929-945a-9bc0c4cf135b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0764f017-ef0f-4929-945a-9bc0c4cf135b.png
+
+newmtl 7bc20e16-c5ca-46d2-9bc6-490fe6396017.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7bc20e16-c5ca-46d2-9bc6-490fe6396017.png
+
+newmtl f8e799b4-48d8-4d4b-8ec5-385578eeb663.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f8e799b4-48d8-4d4b-8ec5-385578eeb663.png
+
+newmtl 710f9e88-3198-4cc0-9c17-295ed77b7c5e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\710f9e88-3198-4cc0-9c17-295ed77b7c5e.png
+
+newmtl 8fc38370-0d92-4c51-8e8b-48613a443faa.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8fc38370-0d92-4c51-8e8b-48613a443faa.png
+
+newmtl 0e09e35f-ff5d-4d2c-af97-0f8fa85da695.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0e09e35f-ff5d-4d2c-af97-0f8fa85da695.png
+
+newmtl fff4d08b-d488-41b2-bfa0-314b57a05502.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fff4d08b-d488-41b2-bfa0-314b57a05502.png
+
+newmtl 9024eef7-963e-4076-9e49-a72a5c64dca7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9024eef7-963e-4076-9e49-a72a5c64dca7.png
+
+newmtl 46b60811-ffe1-4bcd-9d78-e82163ceb474.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\46b60811-ffe1-4bcd-9d78-e82163ceb474.png
+
+newmtl f20f1207-50ca-4997-bfdd-03732c682f5d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f20f1207-50ca-4997-bfdd-03732c682f5d.png
+
+newmtl 9d72d318-4cf9-4a1a-876c-aa3e4272db3a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9d72d318-4cf9-4a1a-876c-aa3e4272db3a.png
+
+newmtl 5b4636ef-16c7-4f3e-9c16-4ce6193170be.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5b4636ef-16c7-4f3e-9c16-4ce6193170be.png
+
+newmtl d27cee7d-2b0c-4a85-8e51-fbc6a1f469f2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d27cee7d-2b0c-4a85-8e51-fbc6a1f469f2.png
+
+newmtl 88a19887-d4e1-4eff-bfaf-b80c6a23cb4a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\88a19887-d4e1-4eff-bfaf-b80c6a23cb4a.png
+
+newmtl fafe0f5b-8860-46f5-8c5a-474cb01a7b8b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fafe0f5b-8860-46f5-8c5a-474cb01a7b8b.png
+
+newmtl e5b94ee0-d46a-4026-a051-cd3244db6ba3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e5b94ee0-d46a-4026-a051-cd3244db6ba3.png
+
+newmtl 95904105-c634-4039-ad52-e0be192ff8a7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\95904105-c634-4039-ad52-e0be192ff8a7.png
+
+newmtl 6238b691-2642-488c-88ed-03ad229bbfb1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6238b691-2642-488c-88ed-03ad229bbfb1.png
+
+newmtl ddff79f6-1379-43b5-a4ff-be7c35515731.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ddff79f6-1379-43b5-a4ff-be7c35515731.png
+
+newmtl 39b3a676-be28-4292-b6f8-a3fc46cad55a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\39b3a676-be28-4292-b6f8-a3fc46cad55a.png
+
+newmtl c30c415a-dca0-4bb5-a913-e221db7d5e7a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c30c415a-dca0-4bb5-a913-e221db7d5e7a.png
+
+newmtl d3ac70a5-8293-4b79-a47e-15125b71406a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d3ac70a5-8293-4b79-a47e-15125b71406a.png
+
+newmtl 44ab040e-97ac-4c44-a9cc-1062a0adc9d9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\44ab040e-97ac-4c44-a9cc-1062a0adc9d9.png
+
+newmtl 08ee2946-9de6-4b09-8430-8e39ffd08d0c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\08ee2946-9de6-4b09-8430-8e39ffd08d0c.png
+
+newmtl 29b5e345-c367-48c5-9850-39723cbe1540.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\29b5e345-c367-48c5-9850-39723cbe1540.png
+
+newmtl 33531c02-6409-467d-aecd-5fb08fc4fe9e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\33531c02-6409-467d-aecd-5fb08fc4fe9e.png
+
+newmtl 07670821-bca9-4859-9664-9b98296fbe09.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\07670821-bca9-4859-9664-9b98296fbe09.png
+
+newmtl 0c6cde59-05ed-445c-8976-29686df97b89.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0c6cde59-05ed-445c-8976-29686df97b89.png
+
+newmtl c2ab806c-a2e7-4040-b7f7-a552451c504d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c2ab806c-a2e7-4040-b7f7-a552451c504d.png
+
+newmtl 2a02891c-5da9-4ea0-b3d6-4d5f8fedd0b8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2a02891c-5da9-4ea0-b3d6-4d5f8fedd0b8.png
+
+newmtl 99d1893a-45c1-4aae-9af4-c7e5a263ddf7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\99d1893a-45c1-4aae-9af4-c7e5a263ddf7.png
+
+newmtl ceccd907-45ea-4775-8b2a-69cb2bcd036c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ceccd907-45ea-4775-8b2a-69cb2bcd036c.png
+
+newmtl c3f3124c-a334-4f32-a68f-e57320116a91.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c3f3124c-a334-4f32-a68f-e57320116a91.png
+
+newmtl 83a13e0f-7509-45f2-8618-e1656ec39dc3.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\83a13e0f-7509-45f2-8618-e1656ec39dc3.png
+
+newmtl 6a716ad5-00a0-4847-b3ca-80dc3657df73.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6a716ad5-00a0-4847-b3ca-80dc3657df73.png
+
+newmtl ca4889d4-2aad-4c7b-89f4-309e57915465.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ca4889d4-2aad-4c7b-89f4-309e57915465.png
+
+newmtl 1ff2b449-fef3-4620-97c7-d7212f169392.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1ff2b449-fef3-4620-97c7-d7212f169392.png
+
+newmtl 8fdcbc74-e60f-4df8-bb50-0a04c287cff5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8fdcbc74-e60f-4df8-bb50-0a04c287cff5.png
+
+newmtl bfde59ed-f23a-48c3-b491-c459e2659340.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\bfde59ed-f23a-48c3-b491-c459e2659340.png
+
+newmtl e6351fce-fc8b-40da-9901-09512cc36a6a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e6351fce-fc8b-40da-9901-09512cc36a6a.png
+
+newmtl fc546fdb-47bc-4562-8544-85df55335ae9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fc546fdb-47bc-4562-8544-85df55335ae9.png
+
+newmtl af815f7e-fb3f-4822-9d3c-cabe9edce534.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\af815f7e-fb3f-4822-9d3c-cabe9edce534.png
+
+newmtl e06df01c-a0b9-4927-9808-b2936433d9b6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e06df01c-a0b9-4927-9808-b2936433d9b6.png
+
+newmtl 915f8691-91fa-48bd-a9ae-3811e435f56d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\915f8691-91fa-48bd-a9ae-3811e435f56d.png
+
+newmtl 8375c610-d225-44da-9c4e-af25a36b1070.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8375c610-d225-44da-9c4e-af25a36b1070.png
+
+newmtl 9aaff7e4-7a0e-4393-9814-453d1fb7ea66.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9aaff7e4-7a0e-4393-9814-453d1fb7ea66.png
+
+newmtl 6aed0330-6d32-4a16-9765-4cf5ed966908.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6aed0330-6d32-4a16-9765-4cf5ed966908.png
+
+newmtl 6d24a011-6029-4f34-852b-351cba769c86.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\6d24a011-6029-4f34-852b-351cba769c86.png
+
+newmtl 17bd34ac-3501-4441-96d7-4f8512f0c061.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\17bd34ac-3501-4441-96d7-4f8512f0c061.png
+
+newmtl 3615e575-4d9c-42ff-9d3a-8d4ad2c02519.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3615e575-4d9c-42ff-9d3a-8d4ad2c02519.png
+
+newmtl 9533efe3-a335-4b5e-b826-be742fa1cb7a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9533efe3-a335-4b5e-b826-be742fa1cb7a.png
+
+newmtl 402667b4-2963-421f-a92e-44a5c4e34c1f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\402667b4-2963-421f-a92e-44a5c4e34c1f.png
+
+newmtl 1687e799-8659-4e0e-8449-fabedf8ac889.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1687e799-8659-4e0e-8449-fabedf8ac889.png
+
+newmtl 726daa45-5aad-4fb1-880b-4941c8486043.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\726daa45-5aad-4fb1-880b-4941c8486043.png
+
+newmtl ea7847b5-d195-4ad6-9cdd-6ca9aba5bc8d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ea7847b5-d195-4ad6-9cdd-6ca9aba5bc8d.png
+
+newmtl cd67dbbc-521c-4a5d-92d3-f77338afa34f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\cd67dbbc-521c-4a5d-92d3-f77338afa34f.png
+
+newmtl 29aad5a1-9ceb-490a-84e7-13d98fd02200.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\29aad5a1-9ceb-490a-84e7-13d98fd02200.png
+
+newmtl 598dd733-577f-41db-bfbd-6dfe05c90f23.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\598dd733-577f-41db-bfbd-6dfe05c90f23.png
+
+newmtl 82e09c78-bed5-4286-973e-fe56a28f8cda.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\82e09c78-bed5-4286-973e-fe56a28f8cda.png
+
+newmtl 4d0bbf90-bd8c-4f77-ac1e-8cf989b4ae23.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4d0bbf90-bd8c-4f77-ac1e-8cf989b4ae23.png
+
+newmtl 8d7dea32-3d3e-4914-8123-5381444ca330.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8d7dea32-3d3e-4914-8123-5381444ca330.png
+
+newmtl a86facc8-5aab-444b-aeb6-18e5be2f021a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a86facc8-5aab-444b-aeb6-18e5be2f021a.png
+
+newmtl 1b092ddc-dee4-422b-94c3-94feefd8732c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1b092ddc-dee4-422b-94c3-94feefd8732c.png
+
+newmtl eb77b8f9-9a28-4a93-a439-06a404375b35.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\eb77b8f9-9a28-4a93-a439-06a404375b35.png
+
+newmtl fd94c641-fe02-4916-ba60-ba76bd639d8b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fd94c641-fe02-4916-ba60-ba76bd639d8b.png
+
+newmtl b7c4772e-cae4-49a1-bd15-28f25b52138e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b7c4772e-cae4-49a1-bd15-28f25b52138e.png
+
+newmtl de828ce5-2259-4d21-bf5f-6abc99e0a946.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\de828ce5-2259-4d21-bf5f-6abc99e0a946.png
+
+newmtl 1e4a9fb2-4e6d-4293-a953-97efb3c061ac.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1e4a9fb2-4e6d-4293-a953-97efb3c061ac.png
+
+newmtl 1ebecdea-cf6b-4089-9718-25c719d5c3f6.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1ebecdea-cf6b-4089-9718-25c719d5c3f6.png
+
+newmtl 8a00d536-594f-41cd-a7f3-6827f2100c40.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8a00d536-594f-41cd-a7f3-6827f2100c40.png
+
+newmtl 435f828e-24c3-43d9-b75c-df2c1712b1e0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\435f828e-24c3-43d9-b75c-df2c1712b1e0.png
+
+newmtl 03099045-ab1e-40d7-a93a-54b3e4ccd4fe.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\03099045-ab1e-40d7-a93a-54b3e4ccd4fe.png
+
+newmtl fb2d53e4-2364-4ab4-971e-f789969037c2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\fb2d53e4-2364-4ab4-971e-f789969037c2.png
+
+newmtl 8961128c-d3f3-42a9-b5a4-db8701881eb9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\8961128c-d3f3-42a9-b5a4-db8701881eb9.png
+
+newmtl d0423e81-af36-4168-9ded-f4a1f294489f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d0423e81-af36-4168-9ded-f4a1f294489f.png
+
+newmtl 716a4e5c-e227-47f1-9fe8-d18312613ddd.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\716a4e5c-e227-47f1-9fe8-d18312613ddd.png
+
+newmtl e042aca1-2c13-44f7-9fda-f97ef81670ff.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e042aca1-2c13-44f7-9fda-f97ef81670ff.png
+
+newmtl 9858419b-8a8d-47f3-8ff2-6a48979d4a48.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9858419b-8a8d-47f3-8ff2-6a48979d4a48.png
+
+newmtl 2052798b-517a-4174-be92-873898ca7983.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\2052798b-517a-4174-be92-873898ca7983.png
+
+newmtl 51eed582-43f6-4fd9-9a99-a51051a50794.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\51eed582-43f6-4fd9-9a99-a51051a50794.png
+
+newmtl 629144a9-3244-47ff-a397-3cb82424326d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\629144a9-3244-47ff-a397-3cb82424326d.png
+
+newmtl 52fa2947-baba-4d37-8971-8deb405114c7.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\52fa2947-baba-4d37-8971-8deb405114c7.png
+
+newmtl 880bfac6-bd76-40fc-ace5-5a8c59308cc9.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\880bfac6-bd76-40fc-ace5-5a8c59308cc9.png
+
+newmtl 156e1592-956d-4169-881c-f2bd0a47afbb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\156e1592-956d-4169-881c-f2bd0a47afbb.png
+
+newmtl c765f910-4f53-4624-8b47-9bd9d4c33857.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c765f910-4f53-4624-8b47-9bd9d4c33857.png
+
+newmtl 3f3ac587-65a5-4654-9d45-248ffb04f07c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3f3ac587-65a5-4654-9d45-248ffb04f07c.png
+
+newmtl db21c9b6-e531-4423-82a7-853b17ccf4c5.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\db21c9b6-e531-4423-82a7-853b17ccf4c5.png
+
+newmtl 3938679f-bec1-4060-a1f3-8a621a1ff82f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3938679f-bec1-4060-a1f3-8a621a1ff82f.png
+
+newmtl 3cc45870-993d-4c7e-a4eb-7e8cceb2b297.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3cc45870-993d-4c7e-a4eb-7e8cceb2b297.png
+
+newmtl e86cdce8-be82-4da5-8e3a-e63119126243.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e86cdce8-be82-4da5-8e3a-e63119126243.png
+
+newmtl 309e31e8-3e97-4d85-a74b-91c994216c73.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\309e31e8-3e97-4d85-a74b-91c994216c73.png
+
+newmtl 729bb834-fbcc-4047-a0e8-d66fcd8a0897.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\729bb834-fbcc-4047-a0e8-d66fcd8a0897.png
+
+newmtl 46956dff-9c91-4d6a-965b-4fd84170d532.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\46956dff-9c91-4d6a-965b-4fd84170d532.png
+
+newmtl e6c67638-38d0-4b86-8224-9b528f42e9fe.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e6c67638-38d0-4b86-8224-9b528f42e9fe.png
+
+newmtl d30ab8f7-14aa-400a-91ec-4d014079bc9f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d30ab8f7-14aa-400a-91ec-4d014079bc9f.png
+
+newmtl 24478e1b-8374-4bd3-adf2-690e3221f65d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\24478e1b-8374-4bd3-adf2-690e3221f65d.png
+
+newmtl f2e24dce-25e8-4d03-b6d6-650d03924976.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f2e24dce-25e8-4d03-b6d6-650d03924976.png
+
+newmtl 0690a1af-1263-4006-93de-1e3731f1054f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0690a1af-1263-4006-93de-1e3731f1054f.png
+
+newmtl 5b6c28f2-ed47-4c9d-b08b-205b0767bbde.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5b6c28f2-ed47-4c9d-b08b-205b0767bbde.png
+
+newmtl 59aca1b9-35b0-44be-8196-2a73de12021e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\59aca1b9-35b0-44be-8196-2a73de12021e.png
+
+newmtl ea8e31ca-b25a-436f-ac06-5d058ff1f55f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ea8e31ca-b25a-436f-ac06-5d058ff1f55f.png
+
+newmtl 5b369766-1c9e-4cef-a39d-45efb4b4b114.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5b369766-1c9e-4cef-a39d-45efb4b4b114.png
+
+newmtl 65c756cc-068f-4a39-b4c4-8a83ee599d50.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\65c756cc-068f-4a39-b4c4-8a83ee599d50.png
+
+newmtl ba1f1125-39d1-475f-80ff-1a5556310fe1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ba1f1125-39d1-475f-80ff-1a5556310fe1.png
+
+newmtl ccfb1fd2-e53d-4580-9ded-61152d31756a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ccfb1fd2-e53d-4580-9ded-61152d31756a.png
+
+newmtl 4d86b115-03a6-49bb-b161-778b06ecc401.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4d86b115-03a6-49bb-b161-778b06ecc401.png
+
+newmtl c1b68e02-b256-40ea-9bed-b49217f45f71.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c1b68e02-b256-40ea-9bed-b49217f45f71.png
+
+newmtl 5a222d56-740a-4048-8297-a34c0924d003.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\5a222d56-740a-4048-8297-a34c0924d003.png
+
+newmtl d35d9c11-8f8f-4c2f-b8f0-b72e4b37f2c2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d35d9c11-8f8f-4c2f-b8f0-b72e4b37f2c2.png
+
+newmtl bcf5da66-ce3a-4907-bca5-7875f8e165b0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\bcf5da66-ce3a-4907-bca5-7875f8e165b0.png
+
+newmtl afcf241a-42c5-43da-8a19-e6ff5a966954.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\afcf241a-42c5-43da-8a19-e6ff5a966954.png
+
+newmtl 899a2d7b-7494-4dd2-b6f5-0a63b84aabb4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\899a2d7b-7494-4dd2-b6f5-0a63b84aabb4.png
+
+newmtl 3e0ac0e3-f629-4e37-b5b2-bf96dec16c19.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3e0ac0e3-f629-4e37-b5b2-bf96dec16c19.png
+
+newmtl 645105ce-1fcc-420a-b447-484888916ce8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\645105ce-1fcc-420a-b447-484888916ce8.png
+
+newmtl 0eb63612-6dda-44d4-9de3-9facf58ef7df.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0eb63612-6dda-44d4-9de3-9facf58ef7df.png
+
+newmtl e84cf8da-b325-42e8-b883-c2a56cb62ae2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e84cf8da-b325-42e8-b883-c2a56cb62ae2.png
+
+newmtl 844426bb-dcb4-424f-8290-880cfff97b24.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\844426bb-dcb4-424f-8290-880cfff97b24.png
+
+newmtl 674576c5-8fea-4c87-8eda-ae08a0d6fa3e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\674576c5-8fea-4c87-8eda-ae08a0d6fa3e.png
+
+newmtl 771fb1a4-7522-452c-ae5d-d61cf3c11f42.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\771fb1a4-7522-452c-ae5d-d61cf3c11f42.png
+
+newmtl b9664630-52a6-4307-814b-1c8661658737.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\b9664630-52a6-4307-814b-1c8661658737.png
+
+newmtl dd6be9c6-475c-4cdc-8492-499d9b3e9d06.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\dd6be9c6-475c-4cdc-8492-499d9b3e9d06.png
+
+newmtl 58c2d11e-c01b-4749-9202-48c169c26506.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\58c2d11e-c01b-4749-9202-48c169c26506.png
+
+newmtl 1305b694-4066-4cc7-943d-b698560b9db8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1305b694-4066-4cc7-943d-b698560b9db8.png
+
+newmtl 9e380e56-88ff-4668-9e5c-1fbf76b02cee.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\9e380e56-88ff-4668-9e5c-1fbf76b02cee.png
+
+newmtl ab1f2540-5e4b-47fc-8fa8-75480adf801c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ab1f2540-5e4b-47fc-8fa8-75480adf801c.png
+
+newmtl 06a29ecf-c40a-4d86-9f33-4034273ac6fb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\06a29ecf-c40a-4d86-9f33-4034273ac6fb.png
+
+newmtl f8d29f45-d3f0-46ac-9278-9573040957e0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f8d29f45-d3f0-46ac-9278-9573040957e0.png
+
+newmtl 1353ae2a-d0fa-4991-80e6-45ba6913ab2b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1353ae2a-d0fa-4991-80e6-45ba6913ab2b.png
+
+newmtl f955a4bd-e903-4ea7-b7fa-4fcddaebc392.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f955a4bd-e903-4ea7-b7fa-4fcddaebc392.png
+
+newmtl d0916718-bfc9-460e-9677-9c1830d9d932.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d0916718-bfc9-460e-9677-9c1830d9d932.png
+
+newmtl e5b56569-700c-47e4-bdc9-8188830a0b9b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\e5b56569-700c-47e4-bdc9-8188830a0b9b.png
+
+newmtl 249f7041-80ec-4d9b-9ef1-9f4af8a85240.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\249f7041-80ec-4d9b-9ef1-9f4af8a85240.png
+
+newmtl 19b62914-bf2e-4938-92eb-e6cef8f029d0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\19b62914-bf2e-4938-92eb-e6cef8f029d0.png
+
+newmtl 1d8fc099-4e57-4896-904c-b8e914390e4f.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1d8fc099-4e57-4896-904c-b8e914390e4f.png
+
+newmtl 7b3cfa3f-623e-4a39-b12b-47198e8ecdcb.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7b3cfa3f-623e-4a39-b12b-47198e8ecdcb.png
+
+newmtl 72ed877d-40f9-4f5a-85e1-7a3fe0f007f1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\72ed877d-40f9-4f5a-85e1-7a3fe0f007f1.png
+
+newmtl 242dbfc9-610e-4fbc-9e17-50ff68bd60a1.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\242dbfc9-610e-4fbc-9e17-50ff68bd60a1.png
+
+newmtl de23a8af-accb-45d8-9888-7eb04f938e7b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\de23a8af-accb-45d8-9888-7eb04f938e7b.png
+
+newmtl 54fb00cc-5fc4-4461-b823-6fb6918d0faa.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\54fb00cc-5fc4-4461-b823-6fb6918d0faa.png
+
+newmtl 7fb4bd44-b3bb-4cb9-a8b9-456cc94c0ca0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\7fb4bd44-b3bb-4cb9-a8b9-456cc94c0ca0.png
+
+newmtl f7e5afe9-0bd5-4acb-82b4-af134523c95a.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\f7e5afe9-0bd5-4acb-82b4-af134523c95a.png
+
+newmtl 4a3a4a7f-5464-4fbd-9713-3ad3f99c0f2d.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\4a3a4a7f-5464-4fbd-9713-3ad3f99c0f2d.png
+
+newmtl 3cbc689f-abc2-42c5-a62b-c6d122172d5b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3cbc689f-abc2-42c5-a62b-c6d122172d5b.png
+
+newmtl ba169748-6fc9-4eff-85a3-c60fcfedc2a0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\ba169748-6fc9-4eff-85a3-c60fcfedc2a0.png
+
+newmtl d5b74ec3-a664-4cde-b046-842f3b928bf4.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\d5b74ec3-a664-4cde-b046-842f3b928bf4.png
+
+newmtl 638d8cb4-606b-4d97-9fe6-a1883a0678b2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\638d8cb4-606b-4d97-9fe6-a1883a0678b2.png
+
+newmtl 31de87e8-19b0-4597-a8eb-a9e35b482530.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\31de87e8-19b0-4597-a8eb-a9e35b482530.png
+
+newmtl c3d90959-264b-4d03-8567-58586b161f3b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\c3d90959-264b-4d03-8567-58586b161f3b.png
+
+newmtl 329bc317-9e03-4a31-9a8f-538083da477c.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\329bc317-9e03-4a31-9a8f-538083da477c.png
+
+newmtl 31d171b0-69df-4d2c-a61a-07f3022db4ad.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\31d171b0-69df-4d2c-a61a-07f3022db4ad.png
+
+newmtl 42223267-490b-4b11-aef3-bace79f66f89.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\42223267-490b-4b11-aef3-bace79f66f89.png
+
+newmtl 437c9a52-3db6-4573-8f34-4f8e82a3c8ad.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\437c9a52-3db6-4573-8f34-4f8e82a3c8ad.png
+
+newmtl 98bfae19-d9ed-4ecd-9611-bbffeeb33990.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\98bfae19-d9ed-4ecd-9611-bbffeeb33990.png
+
+newmtl a00e7f8d-e21f-4d31-af4a-2c2ed44894ce.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\a00e7f8d-e21f-4d31-af4a-2c2ed44894ce.png
+
+newmtl 3a0c6aa3-1a2f-4797-b7b5-800b4f3d0e92.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3a0c6aa3-1a2f-4797-b7b5-800b4f3d0e92.png
+
+newmtl dabafc59-3206-47ee-ae88-bc6ec58ba14b.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\dabafc59-3206-47ee-ae88-bc6ec58ba14b.png
+
+newmtl 3c0ffd68-37c4-49e7-9165-d553fd431250.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\3c0ffd68-37c4-49e7-9165-d553fd431250.png
+
+newmtl dee2cd65-bdd0-436a-919a-8468147c6c0e.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\dee2cd65-bdd0-436a-919a-8468147c6c0e.png
+
+newmtl bd6e10b0-72cd-4ce5-a660-f1d92e2736c0.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\bd6e10b0-72cd-4ce5-a660-f1d92e2736c0.png
+
+newmtl 94791dbc-3e73-410b-aa92-c4e3fda5f880.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\94791dbc-3e73-410b-aa92-c4e3fda5f880.png
+
+newmtl 553584f7-fbd5-4020-8d4a-2d5bb8801fb8.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\553584f7-fbd5-4020-8d4a-2d5bb8801fb8.png
+
+newmtl 1ff594a3-84fe-4c59-a823-8db71f26feb2.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\1ff594a3-84fe-4c59-a823-8db71f26feb2.png
+
+newmtl 0e7d09fc-e595-4556-96a0-5553e42ee467.png
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd .\Image\0e7d09fc-e595-4556-96a0-5553e42ee467.png
+

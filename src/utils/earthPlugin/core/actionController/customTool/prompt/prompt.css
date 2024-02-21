@@ -1,0 +1,98 @@
+.easy3d-prompt {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+  opacity: 0; /* 设置元素初始透明度为 0*/
+  animation: fade-in 1s ease-out forwards; /* 使用动画使元素逐渐显示 */
+}
+@keyframes fade-in {
+  to {
+    opacity: 1; /* 动画结束时元素完全显示 */
+  }
+}
+
+.prompt-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 4px 4px 0 0;
+  border: none;
+  text-align: center;
+  width: 13px;
+  height: 11px;
+  font: 13px Tahoma, Verdana, sans-serif;
+  color: #c3c3c3;
+  text-decoration: none;
+  font-weight: bold;
+  background: transparent;
+}
+
+.prompt-content-container {
+  /* 不给padding撑不开div */
+  max-width: 400px;
+  border-radius: 4px;
+  padding: 1px;
+  /* background: white; */
+  color: #333;
+  box-shadow: 0 0 10px 2px #29baf1;
+  border: 1px solid #38e1ff;
+  background-color: #38e1ff3d;
+  text-shadow: 1px 2px 2px mediumblue;
+  /* animation: Containerblink 2s linear infinite; */
+}
+
+.prompt-content {
+  margin: 3px 4px;
+  font: 14px Tahoma, Verdana, sans-serif;
+  /* animation: blink 2s linear infinite; */
+}
+@keyframes blink {
+  0% {
+    /* opacity: 1; */
+    color: aqua;
+  }
+  50% {
+    /* opacity: 0.5; */
+    color: white;
+  }
+  100% {
+    /* opacity: 0.8; */
+    color: greenyellow;
+  }
+}
+@keyframes Containerblink {
+  0% {
+    /* opacity: 1; */
+    border: 1px solid #38e1ff;
+    box-shadow: 0 0 10px 2px #38e1ff;
+  }
+  50% {
+    /* opacity: 0.5; */
+    border: 1px solid white;
+    box-shadow: 0 0 10px 2px white;
+  }
+  100% {
+    /* opacity: 0.8; */
+    border: 1px solid greenyellow;
+    box-shadow: 0 0 10px 2px greenyellow;
+  }
+}
+.prompt-anchor-container {
+  position: absolute;
+  width: 40px;
+
+  height: 20px;
+  left: 50%;
+  margin-left: -20px;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.prompt-anchor {
+  margin: -10px auto 0;
+  background: aqua;
+  width: 17px;
+  height: 17px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}

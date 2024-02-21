@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    120.138504207,
+                    23.0056834270001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "防空暨导弹指挥部（台南市仁德区长安营区）",
+                "icon": "防空暨导弹指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.418913533,
+                    23.4555566660001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "空军基地",
+                "entity_name": "嘉义空军基地",
+                "icon": "嘉义空军基地",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.165479577,
+                    22.7884386370001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "空军联队",
+                "entity_name": "空军第7飞行训练联队",
+                "icon": "空军第7飞行训练联队",
+                "direction": "right"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.555269738,
+                    25.065453303
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "队",
+                "entity_name": "空军气象联队",
+                "icon": "空军气象联队",
+                "direction": "right"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.533950474,
+                    25.0696826290001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "司令部",
+                "entity_name": "空军司令部",
+                "icon": "空军司令部",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.555260259,
+                    25.0654627820001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "空军松山基地指挥部（松山机场）",
+                "icon": "空军松山基地指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.081761131,
+                    24.4908830700001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "雷达站",
+                "entity_name": "乐山雷达站",
+                "icon": "乐山雷达站",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.281014093,
+                    22.6933444690001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "大队",
+                "entity_name": "陆战防空警卫大队（高雄左营区）",
+                "icon": "陆战防空警卫大队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.465632763,
+                    22.695547966
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "空军基地",
+                "entity_name": "屏东空军基地",
+                "icon": "屏东空军基地",
+                "direction": "bottom"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.157767688,
+                    22.990253067
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "空军基地",
+                "entity_name": "台南空军基地",
+                "icon": "台南空军基地",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.616881052,
+                    24.16450969
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "空军基地",
+                "entity_name": "台中清泉岗空军基地",
+                "icon": "台中清泉岗空军基地",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.955054833,
+                    24.826387072
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "空军基地",
+                "entity_name": "新竹空军基地",
+                "icon": "新竹空军基地",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.16199541,
+                    22.7874754000001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "空军基地",
+                "entity_name": "致航空军基地",
+                "icon": "致航空军基地"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 0,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.48663,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 2.16551,
+    "detectionDistance": 1000000.0
+  },
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 32,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.5404,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 2.06755,
+    "detectionDistance": 68960.0
+  },
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 55,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.55348,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 1.8149,
+    "detectionDistance": 46650.0
+  },
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 60,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.55368,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 1.64434,
+    "detectionDistance": 41800.0
+  },
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 66,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.55351,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 1.64263,
+    "detectionDistance": 35980.0
+  },
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 71,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.56027,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 1.56683,
+    "detectionDistance": 31130.0
+  },
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 77,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.5863,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 1.47811,
+    "detectionDistance": 25310.0
+  },
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 82,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.57187,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 1.36366,
+    "detectionDistance": 20460.0
+  },
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 88,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.57576,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 1.27761,
+    "detectionDistance": 14640.0
+  },
+  {
+    "pitchAngle": 70.0,
+    "frameNumber": 93,
+    "operatingDistance": 840732.0,
+    "azimuth": 270.0,
+    "letterClutterRatio": 1.55796,
+    "targetRadiationIntensity": 840055.0,
+    "noiseRatio": 1.25691,
+    "detectionDistance": 9790.0
+  }
+]

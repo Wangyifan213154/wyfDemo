@@ -1,0 +1,993 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        139.779722,
+                        35.552222
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-东京国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        126.790556,
+                        37.558056
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-金浦国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        121.336389,
+                        31.198056
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-上海虹桥国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        118.1275,
+                        24.543889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-厦门高崎国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        119.663056,
+                        25.935
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-福州长乐国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        104.444731,
+                        30.323036
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-成都天府国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        119.628333,
+                        23.568611
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-澎湖机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        118.361111,
+                        24.428889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-金门机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        121.61,
+                        24.023333
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-南竿机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        120.002778,
+                        26.224167
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-北竿机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        121.100278,
+                        22.755278
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-台东机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.5525,
+                        25.069722
+                    ],
+                    [
+                        121.61666667,
+                        23.9666666667
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台北松山机场-花莲机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.620833,
+                        24.265
+                    ],
+                    [
+                        105.807222,
+                        21.221111
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台中清泉岗机场-内排国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.620833,
+                        24.265
+                    ],
+                    [
+                        113.914444,
+                        22.308889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台中清泉岗机场-香港国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.620833,
+                        24.265
+                    ],
+                    [
+                        113.591667,
+                        22.149444
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台中清泉岗机场-澳门国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.620833,
+                        24.265
+                    ],
+                    [
+                        119.628333,
+                        23.568611
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台中清泉岗机场-澎湖机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.620833,
+                        24.265
+                    ],
+                    [
+                        118.361111,
+                        24.428889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台中清泉岗机场-金门机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.620833,
+                        24.265
+                    ],
+                    [
+                        121.61,
+                        24.023333
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台中清泉岗机场-南竿机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.620833,
+                        24.265
+                    ],
+                    [
+                        121.61666667,
+                        23.9666666667
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "台中清泉岗机场-花莲机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        140.386389,
+                        35.764722
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-成田国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        126.450278,
+                        37.468889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-仁川国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        119.4175,
+                        23.213056
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-七美机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        119.502278,
+                        23.367361
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-望安机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        113.914444,
+                        22.308889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-香港国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        113.591667,
+                        22.149444
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-澳门国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        119.628333,
+                        23.568611
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-澎湖机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        118.361111,
+                        24.428889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-金门机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        121.61,
+                        24.023333
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-南竿机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        121.61666667,
+                        23.9666666667
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-花莲机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        118.1275,
+                        24.543889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-厦门高崎国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        121.805278,
+                        31.143333
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-上海浦东国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        119.663056,
+                        25.935
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-福州长乐国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        113.810833,
+                        22.639444
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-深圳宝安国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.350278,
+                        22.576944
+                    ],
+                    [
+                        118.861944,
+                        31.742222
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄小港机场-南京禄口国际机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.61666667,
+                        23.9666666667
+                    ],
+                    [
+                        121.5525,
+                        25.069722
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "花莲机场-台北松山机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.61666667,
+                        23.9666666667
+                    ],
+                    [
+                        120.620833,
+                        24.265
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "花莲机场-台中清泉岗机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.61666667,
+                        23.9666666667
+                    ],
+                    [
+                        120.350278,
+                        22.576944
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "花莲机场-高雄小港机场"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.27789,
+                        22.61309
+                    ],
+                    [
+                        120.9472,
+                        14.5369
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄港-马尼拉国际港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.27789,
+                        22.61309
+                    ],
+                    [
+                        129.040556,
+                        35.102778
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄港-釜山新港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.27789,
+                        22.61309
+                    ],
+                    [
+                        119.582222,
+                        23.566111
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄港-马公港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.27789,
+                        22.61309
+                    ],
+                    [
+                        119.791389,
+                        25.681667
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄港-平潭港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.27789,
+                        22.61309
+                    ],
+                    [
+                        118.102778,
+                        24.475278
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄港-马尾港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.27789,
+                        22.61309
+                    ],
+                    [
+                        114.158056,
+                        22.283889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄港-中环天星码头"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.27789,
+                        22.61309
+                    ],
+                    [
+                        121.743333,
+                        25.129167
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "高雄港-基隆港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.7476,
+                        25.1384
+                    ],
+                    [
+                        127.669889,
+                        26.2105
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "基隆港-那霸港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.7476,
+                        25.1384
+                    ],
+                    [
+                        124.155556,
+                        24.337222
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "基隆港-石垣港 "
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.7476,
+                        25.1384
+                    ],
+                    [
+                        118.088611,
+                        24.474167
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "基隆港-厦门港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.7476,
+                        25.1384
+                    ],
+                    [
+                        121.432778,
+                        28.862222
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "基隆港-台州港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.7476,
+                        25.1384
+                    ],
+                    [
+                        119.885,
+                        25.087222
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "基隆港-福澳港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.7476,
+                        25.1384
+                    ],
+                    [
+                        121.603889,
+                        23.981667
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "基隆港-花莲港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.7476,
+                        25.1384
+                    ],
+                    [
+                        120.27789,
+                        22.61309
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "基隆港-高雄港"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        121.7476,
+                        25.1384
+                    ],
+                    [
+                        120.684444,
+                        24.142222
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "基隆港-台中港"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

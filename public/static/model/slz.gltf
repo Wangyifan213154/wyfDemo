@@ -1,0 +1,167 @@
+{
+  "accessors": [
+    {
+      "name": "Pyramid001_1_0_positions",
+      "componentType": 5126,
+      "count": 17,
+      "min": [
+        -1.8870999813079834,
+        0.17839999496936798,
+        -1.9045000076293945
+      ],
+      "max": [
+        1.9219000339508057,
+        6.178400039672852,
+        1.9045000076293945
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "Pyramid001_1_0_normals",
+      "componentType": 5126,
+      "count": 17,
+      "min": [
+        -0.8944271802902222,
+        -0.4472135901451111,
+        -0.8944271802902222
+      ],
+      "max": [
+        0.8944271802902222,
+        1,
+        0.8944271802902222
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "Pyramid001_1_0_texcoords",
+      "componentType": 5126,
+      "count": 17,
+      "min": [
+        0,
+        0
+      ],
+      "max": [
+        1,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "name": "Pyramid001_1_0_indices",
+      "componentType": 5123,
+      "count": 24,
+      "min": [
+        0
+      ],
+      "max": [
+        16
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "slz",
+      "byteLength": 592,
+      "uri": "data:application/octet-stream;base64,coqOPH2uNj4AAAAA0gD2P3S1xUCoxvM/fozxv3S1xUCoxvM/coqOPH2uNj4AAAAAfozxv3S1xUCoxvM/fozxv3S1xUCoxvO/coqOPH2uNj4AAAAAfozxv3S1xUCoxvO/0gD2P3S1xUCoxvO/coqOPH2uNj4AAAAA0gD2P3S1xUCoxvO/0gD2P3S1xUCoxvM/0gD2P3S1xUCoxvM/coqOPHS1xUAAAAAAfozxv3S1xUCoxvM/fozxv3S1xUCoxvO/0gD2P3S1xUCoxvO/AAAAAC755L4u+WQ/AAAAAC755L4u+WQ/AAAAAC755L4u+WQ/Lvlkvy755L4AAACALvlkvy755L4AAACALvlkvy755L4AAACAAAAAAC755L4u+WS/AAAAAC755L4u+WS/AAAAAC755L4u+WS/LvlkPy755L4AAACALvlkPy755L4AAACALvlkPy755L4AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAPwAAAAAAAAAAAACAPwAAgD8AAIA/AAAAPwAAAAAAAAAAAACAPwAAgD8AAIA/AAAAPwAAAAAAAAAAAACAPwAAgD8AAIA/AAAAPwAAAAAAAAAAAACAPwAAgD8AAIA/AAAAAAAAAAAAAAA/AAAAPwAAgD8AAAAAAACAPwAAgD8AAAAAAACAPwAAAQACAAMABAAFAAYABwAIAAkACgALAAwADQAOAA4ADQAPAA8ADQAQABAADQAMAA=="
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 204,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 204,
+      "byteOffset": 204,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 136,
+      "byteOffset": 408,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_3",
+      "buffer": 0,
+      "byteLength": 48,
+      "byteOffset": 544,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "01___Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9882,
+          1,
+          0,
+          0.6
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.99
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "BLEND",
+      "doubleSided": true
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Pyramid001_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Pyramid001",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1022 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "EPSG:4326"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"id": 0,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-157.96419760000001, 21.367291940000001]
+		},
+		"properties": {
+			"FID": 0,
+			"名称": "珍珠港海军综合基地",
+			"类型": "海军基地",
+			"经度": -157.96419760000001,
+			"纬度": 21.367291940000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 1,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [144.66266920000001, 13.452876460000001]
+		},
+		"properties": {
+			"FID": 1,
+			"名称": "阿普拉海军基地",
+			"类型": "海军基地",
+			"经度": 144.66266920000001,
+			"纬度": 13.452876460000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 2,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.303619440000006, 36.934319440000003]
+		},
+		"properties": {
+			"FID": 2,
+			"名称": "诺福克海军基地",
+			"类型": "海军基地",
+			"经度": -76.303619440000006,
+			"纬度": 36.934319440000003,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 3,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.129985, 32.684798000000001]
+		},
+		"properties": {
+			"FID": 3,
+			"名称": "圣迭戈海军基地",
+			"类型": "海军基地",
+			"经度": -117.129985,
+			"纬度": 32.684798000000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 4,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [128.6333333, 35.133333329999999]
+		},
+		"properties": {
+			"FID": 4,
+			"名称": "镇海海军基地",
+			"类型": "海军基地",
+			"经度": 128.6333333,
+			"纬度": 35.133333329999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 5,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [126.6333333, 35.583333330000002]
+		},
+		"properties": {
+			"FID": 5,
+			"名称": "群山空军基地",
+			"类型": "空军基地",
+			"经度": 126.6333333,
+			"纬度": 35.583333330000002,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 6,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.0333333, 37.083333330000002]
+		},
+		"properties": {
+			"FID": 6,
+			"名称": "乌山空军基地",
+			"类型": "空军基地",
+			"经度": 127.0333333,
+			"纬度": 37.083333330000002,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 7,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.02776900000001, 36.962290750000001]
+		},
+		"properties": {
+			"FID": 7,
+			"名称": "水原空军基地",
+			"类型": "空军基地",
+			"经度": 127.02776900000001,
+			"纬度": 36.962290750000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 8,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [128.65000000000001, 35.899999999999999]
+		},
+		"properties": {
+			"FID": 8,
+			"名称": "大邱空军基地",
+			"类型": "空军基地",
+			"经度": 128.65000000000001,
+			"纬度": 35.899999999999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 9,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [126.9666667, 37.549999999999997]
+		},
+		"properties": {
+			"FID": 9,
+			"名称": "首尔空军基地",
+			"类型": "空军基地",
+			"经度": 126.9666667,
+			"纬度": 37.549999999999997,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 10,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-147.09999999999999, 64.683333329999996]
+		},
+		"properties": {
+			"FID": 10,
+			"名称": "艾尔森空军基地",
+			"类型": "空军基地",
+			"经度": -147.09999999999999,
+			"纬度": 64.683333329999996,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 11,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-174.09999999999999, 52.700000000000003]
+		},
+		"properties": {
+			"FID": 11,
+			"名称": "谢米亚空军基地",
+			"类型": "空军基地",
+			"经度": -174.09999999999999,
+			"纬度": 52.700000000000003,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 12,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [139.65556960000001, 35.287940120000002]
+		},
+		"properties": {
+			"FID": 12,
+			"名称": "横须贺海军基地",
+			"类型": "海军基地",
+			"经度": 139.65556960000001,
+			"纬度": 35.287940120000002,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 13,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [129.7005135, 33.163189320000001]
+		},
+		"properties": {
+			"FID": 13,
+			"名称": "佐世保海军基地",
+			"类型": "海军基地",
+			"经度": 129.7005135,
+			"纬度": 33.163189320000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 14,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [132.24653280000001, 34.133399019999999]
+		},
+		"properties": {
+			"FID": 14,
+			"名称": "岩国海军基地",
+			"类型": "海军基地",
+			"经度": 132.24653280000001,
+			"纬度": 34.133399019999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 15,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.84814, 26.403169760000001]
+		},
+		"properties": {
+			"FID": 15,
+			"名称": "金武湾海军基地",
+			"类型": "海军基地",
+			"经度": 127.84814,
+			"纬度": 26.403169760000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 16,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.9127802, 26.298951240000001]
+		},
+		"properties": {
+			"FID": 16,
+			"名称": "白滩海军基地",
+			"类型": "海军基地",
+			"经度": 127.9127802,
+			"纬度": 26.298951240000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 17,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [135.37517930000001, 35.482703209999997]
+		},
+		"properties": {
+			"FID": 17,
+			"名称": "舞鹤海军基地",
+			"类型": "海军基地",
+			"经度": 135.37517930000001,
+			"纬度": 35.482703209999997,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 18,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [139.34785500000001, 35.748471080000002]
+		},
+		"properties": {
+			"FID": 18,
+			"名称": "横田空军基地",
+			"类型": "空军基地",
+			"经度": 139.34785500000001,
+			"纬度": 35.748471080000002,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 19,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [141.3672243, 40.703624189999999]
+		},
+		"properties": {
+			"FID": 19,
+			"名称": "三泽空军基地",
+			"类型": "空军基地",
+			"经度": 141.3672243,
+			"纬度": 40.703624189999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 20,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.76062779999999, 26.35251032]
+		},
+		"properties": {
+			"FID": 20,
+			"名称": "嘉手纳空军基地",
+			"类型": "空军基地",
+			"经度": 127.76062779999999,
+			"纬度": 26.35251032,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 21,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [132.222295, 24.150660999999999]
+		},
+		"properties": {
+			"FID": 21,
+			"名称": "岩国航空基地",
+			"类型": "空军基地",
+			"经度": 132.222295,
+			"纬度": 24.150660999999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 22,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.233524, 25.079657000000001]
+		},
+		"properties": {
+			"FID": 22,
+			"名称": "桃园机场",
+			"类型": "机场",
+			"经度": 121.233524,
+			"纬度": 25.079657000000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 23,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.55268700000001, 25.067202000000002]
+		},
+		"properties": {
+			"FID": 23,
+			"名称": "松山机场",
+			"类型": "机场",
+			"经度": 121.55268700000001,
+			"纬度": 25.067202000000002,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 24,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.348489, 22.576139999999999]
+		},
+		"properties": {
+			"FID": 24,
+			"名称": "小港机场",
+			"类型": "机场",
+			"经度": 120.348489,
+			"纬度": 22.576139999999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 25,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.62500900000001, 24.262595999999998]
+		},
+		"properties": {
+			"FID": 25,
+			"名称": "清泉岗机场",
+			"类型": "机场",
+			"经度": 120.62500900000001,
+			"纬度": 24.262595999999998,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 26,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.21494800000001, 22.948698]
+		},
+		"properties": {
+			"FID": 26,
+			"名称": "台南机场",
+			"类型": "机场",
+			"经度": 120.21494800000001,
+			"纬度": 22.948698,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 27,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [119.628204, 23.564817000000001]
+		},
+		"properties": {
+			"FID": 27,
+			"名称": "澎湖机场",
+			"类型": "机场",
+			"经度": 119.628204,
+			"纬度": 23.564817000000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 28,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.61458399999999, 24.025169000000002]
+		},
+		"properties": {
+			"FID": 28,
+			"名称": "花莲机场",
+			"类型": "机场",
+			"经度": 121.61458399999999,
+			"纬度": 24.025169000000002,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 29,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.10714400000001, 22.756526999999998]
+		},
+		"properties": {
+			"FID": 29,
+			"名称": "丰年机场",
+			"类型": "机场",
+			"经度": 121.10714400000001,
+			"纬度": 22.756526999999998,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 30,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.36006, 24.429082000000001]
+		},
+		"properties": {
+			"FID": 30,
+			"名称": "尚义机场",
+			"类型": "机场",
+			"经度": 118.36006,
+			"纬度": 24.429082000000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 31,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.392882, 23.462448999999999]
+		},
+		"properties": {
+			"FID": 31,
+			"名称": "水上机场",
+			"类型": "机场",
+			"经度": 120.392882,
+			"纬度": 23.462448999999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 32,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.73304, 22.039518000000001]
+		},
+		"properties": {
+			"FID": 32,
+			"名称": "恒春机场",
+			"类型": "机场",
+			"经度": 120.73304,
+			"纬度": 22.039518000000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 33,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [119.502405, 23.367369]
+		},
+		"properties": {
+			"FID": 33,
+			"名称": "望安机场",
+			"类型": "机场",
+			"经度": 119.502405,
+			"纬度": 23.367369,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 34,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [119.41784199999999, 23.211583999999998]
+		},
+		"properties": {
+			"FID": 34,
+			"名称": "七美机场",
+			"类型": "机场",
+			"经度": 119.41784199999999,
+			"纬度": 23.211583999999998,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 35,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.466857, 22.672718]
+		},
+		"properties": {
+			"FID": 35,
+			"名称": "绿岛机场",
+			"类型": "机场",
+			"经度": 121.466857,
+			"纬度": 22.672718,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 36,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.53569400000001, 22.027386]
+		},
+		"properties": {
+			"FID": 36,
+			"名称": "兰屿机场",
+			"类型": "机场",
+			"经度": 121.53569400000001,
+			"纬度": 22.027386,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 37,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.001019, 26.224323999999999]
+		},
+		"properties": {
+			"FID": 37,
+			"名称": "北竿机场",
+			"类型": "机场",
+			"经度": 120.001019,
+			"纬度": 26.224323999999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 38,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [119.956642, 26.157381999999998]
+		},
+		"properties": {
+			"FID": 38,
+			"名称": "南竿机场",
+			"类型": "机场",
+			"经度": 119.956642,
+			"纬度": 26.157381999999998,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 39,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.947472, 24.823861000000001]
+		},
+		"properties": {
+			"FID": 39,
+			"名称": "新竹机场",
+			"类型": "机场",
+			"经度": 120.947472,
+			"纬度": 24.823861000000001,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 40,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.95146099999999, 24.820277999999998]
+		},
+		"properties": {
+			"FID": 40,
+			"名称": "新竹空军基地",
+			"类型": "空军基地",
+			"经度": 120.95146099999999,
+			"纬度": 24.820277999999998,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 41,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.173346, 22.786277999999999]
+		},
+		"properties": {
+			"FID": 41,
+			"名称": "志航空军基地",
+			"类型": "空军基地",
+			"经度": 121.173346,
+			"纬度": 22.786277999999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 42,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.46625299999999, 22.677493999999999]
+		},
+		"properties": {
+			"FID": 42,
+			"名称": "屏东空军基地",
+			"类型": "空军基地",
+			"经度": 120.46625299999999,
+			"纬度": 22.677493999999999,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}, {
+		"type": "Feature",
+		"id": 43,
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.27972200000001, 22.704167000000002]
+		},
+		"properties": {
+			"FID": 43,
+			"名称": "左营海军基地",
+			"类型": "海军基地",
+			"经度": 120.27972200000001,
+			"纬度": 22.704167000000002,
+			"Field5": " ",
+			"Field6": " ",
+			"Field7": " ",
+			"Field8": " ",
+			"Field9": " ",
+			"Field10": " ",
+			"Field11": " ",
+			"Field12": " ",
+			"Field13": " "
+		}
+	}]
+}

@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36810843403984,
+          22.97105849990572
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "FID_1": 70,
+        "Id": 0,
+        "type": "超高压变电所",
+        "Name": "龙崎超高压变电所",
+        "level": "枢纽节点"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71733865905372,
+          23.967154565569146
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "FID_1": 76,
+        "Id": 0,
+        "type": "超高压变电所",
+        "Name": "中寮超高压开闭所",
+        "level": "枢纽节点"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.20865053978949,
+          24.768751578958618
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "FID_1": 90,
+        "Id": 0,
+        "type": "超高压变电所",
+        "Name": "龙潭超高压变电所",
+        "level": "枢纽节点"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.78860509443979,
+          24.665077825315549
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "FID_1": 91,
+        "Id": 0,
+        "type": "超高压变电所",
+        "Name": "冬山超高压变电所",
+        "level": "关键节点"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52137853559476,
+          24.980194259028035
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "FID_1": 92,
+        "Id": 0,
+        "type": "超高压变电所",
+        "Name": "深美超高压变电所",
+        "level": "关键节点"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50861068187558,
+          25.136613937095184
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "FID_1": 94,
+        "Id": 0,
+        "type": "超高压变电所",
+        "Name": "仙渡超高压变电所",
+        "level": "关键节点"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.65407755925904,
+          25.094013609308185
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "FID_1": 95,
+        "Id": 0,
+        "type": "超高压变电所",
+        "Name": "汐止超高压变电所",
+        "level": "关键节点"
+      }
+    }
+  ]
+}

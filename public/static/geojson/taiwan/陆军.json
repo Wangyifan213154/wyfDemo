@@ -1,0 +1,678 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    121.46824337,
+                    24.9991075460001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "参谋本部资通电军指挥部（新北市新店区忠信营区）",
+                "icon": "参谋本部资通电军指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    119.577638435,
+                    23.5759695310001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "营",
+                "entity_name": "第101两栖侦查营澎湖、金门、马祖",
+                "icon": "第101两栖侦查营澎湖、金门、马祖"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.624267898,
+                    24.1170504310001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第104步兵旅台中乌日常山部队",
+                "icon": "第104步兵旅台中乌日常山部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.754167068,
+                    24.751781055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第153步兵旅翔龙部队",
+                "icon": "第153步兵旅宜兰县宜兰市翔龙部队",
+                "direction": "right"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.53395151,
+                    25.070589845
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "第202宪兵指挥部",
+                "icon": "第202宪兵指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.356214735,
+                    23.1223131530001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第203步兵旅台南大内区实践部队",
+                "icon": "第203步兵旅台南大内区实践部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.631824253,
+                    24.1373070080001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "第203宪兵指挥部",
+                "icon": "第203宪兵指挥部",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.26053142,
+                    22.6681737380001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "第204宪兵指挥部",
+                "icon": "第204宪兵指挥部",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.297121551,
+                    24.958221055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "第205宪兵指挥部",
+                "icon": "第205宪兵指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.200139317,
+                    24.7514340500001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第206步兵旅新竹县关西镇威武部队",
+                "icon": "第206步兵旅新竹县关西镇威武部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.227265172,
+                    24.9195280980001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "第21炮兵指挥部桃园市平镇区金鹰部队",
+                "icon": "第21炮兵指挥部桃园市平镇区金鹰部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.629407534,
+                    24.1252357770001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第234机步旅台中大里长城部队",
+                "icon": "第234机步旅台中大里长城部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.414154611,
+                    23.604272979
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第257步兵旅嘉义大林军魂部队",
+                "icon": "第257步兵旅嘉义大林军魂部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.071053557,
+                    24.9203757810001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第269机步旅桃园市杨梅区雄狮部队",
+                "icon": "第269机步旅桃园市杨梅区雄狮部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.622364329,
+                    24.1210479260001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第302步兵旅台中乌日虎威部队",
+                "icon": "第302步兵旅台中乌日虎威部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.739032832,
+                    22.5806199990001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第333机步旅屏东万峦乡埔光部队",
+                "icon": "第333机步旅屏东万峦乡埔光部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.067127446,
+                    24.8914653300001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第542装甲旅新竹县湖口乡迅雷部队",
+                "icon": "第542装甲旅新竹县湖口乡迅雷部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.143490922,
+                    23.038794071
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第564装甲旅台南永康区少康部队",
+                "icon": "第564装甲旅台南永康区少康部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.053564519,
+                    24.8975329560001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第584装甲旅新竹县湖口乡迅雷部队",
+                "icon": "第584装甲旅新竹县湖口乡迅雷部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.628778357,
+                    24.191635546
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第586装甲旅台中后里锺山部队",
+                "icon": "第586装甲旅台中后里锺山部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.622115867,
+                    24.182117702
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "第58炮兵指挥部台中神冈虎锋部队",
+                "icon": "第58炮兵指挥部台中神冈虎锋部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.539555816,
+                    25.076360713
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第66陆战旅（台湾桃园市龟山区下湖西营区）",
+                "icon": "第66陆战旅"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.414221311,
+                    22.4828756360001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "旅",
+                "entity_name": "第99陆战旅",
+                "icon": "第99陆战旅",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.468487648,
+                    25.005488466
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "关渡地区指挥部新北市淡水区虎啸部队",
+                "icon": "关渡地区指挥部新北市淡水区虎啸部队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.516156864,
+                    25.0326867700001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "后备指挥部（台北市中正区博爱路172号忠爱营区）",
+                "icon": "后备指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.610400334,
+                    24.030640002
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "教育训练簪准则发展指挥部（花莲机场）",
+                "icon": "教育训练簪准则发展指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    118.303566945,
+                    24.4126812160001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "大队",
+                "entity_name": "金门守备大队",
+                "icon": "金门守备大队",
+                "direction": "top"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    118.42194513,
+                    24.437962989
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "队",
+                "entity_name": "金门资通作业队",
+                "icon": "金门资通作业队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.653629471,
+                    24.6648800470001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "兰阳地区指挥部",
+                "icon": "兰阳地区指挥部宜兰县三星乡黄龙部队",
+                "direction": "right"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    118.240511229,
+                    24.42785028
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "大队",
+                "entity_name": "烈屿守备大队金门县烈屿乡",
+                "icon": "烈屿守备大队金门县烈屿乡"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.631681486,
+                    24.129430992
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军第10军团指挥部（台中市新小区）",
+                "icon": "陆军第10军团指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.284272461,
+                    24.979636204
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军第6军团指挥部（桃园龙山营区）",
+                "icon": "陆军第6军团指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.260626598,
+                    22.668478309
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军第8军团指挥部（高雄泰山营区）",
+                "icon": "陆军第8军团指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.490827863,
+                    26.3674643090001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军东引防卫指挥部",
+                "icon": "陆军东引防卫指挥部",
+                "direction": "right"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.140288803,
+                    23.016391001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军航空特战指挥部（台南市归仁区）",
+                "icon": "陆军航空特战指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.60796532,
+                    25.035612443
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军后勤指挥部",
+                "icon": "陆军后勤指挥部",
+                "direction": "right"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.610400334,
+                    24.007440257
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军花东防卫指挥部",
+                "icon": "陆军花东防卫指挥部",
+                "direction": "right"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.572392378,
+                    25.1263769830001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军教育训练簪准则发展指挥部（台北圆山）",
+                "icon": "陆军教育训练簪准则发展指挥部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    119.919015414,
+                    26.1444867880001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军马祖防卫指挥部",
+                "icon": "陆军马祖防卫指挥部",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    119.588108063,
+                    23.5640722260001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "陆军澎湖防卫指挥部",
+                "icon": "陆军澎湖防卫指挥部",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.307115287,
+                    24.979636204
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "司令部",
+                "entity_name": "陆军司令部（桃园龙潭区）",
+                "icon": "陆军司令部"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.281014093,
+                    22.6933444690001
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "大队",
+                "entity_name": "陆战防空警卫大队",
+                "icon": "陆战防空警卫大队"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.533950474,
+                    25.068597595
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "宪兵指挥部",
+                "icon": "宪兵指挥部",
+                "direction": "left"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.53903205,
+                    25.014511167
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "entity_type": "指挥部",
+                "entity_name": "作战指挥部",
+                "icon": "作战指挥部",
+                "direction": "right"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

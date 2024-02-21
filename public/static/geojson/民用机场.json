@@ -1,0 +1,381 @@
+{
+    "type": "Topology",
+    "arcs": [],
+    "objects": {
+        "机场": {
+            "type": "GeometryCollection",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        121.552299,
+                        25.067915
+                    ],
+                    "properties": {
+                        "OBJECTID": 2842,
+                        "id": 5523,
+                        "ident": "RCPO",
+                        "type": "medium_airport",
+                        "name": "Hsinchu Air Base",
+                        "latitude_d": 24.8180007935,
+                        "longitude_": 120.939002991,
+                        "elevation_": 26,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-HSZ",
+                        "municipali": "Hsinchu City",
+                        "scheduled_": "no",
+                        "gps_code": "RCPO",
+                        "iata_code": "HSZ",
+                        "local_code": "",
+                        "home_link": "",
+                        "wikipedia_": "https://en.wikipedia.org/wiki/Hsinchu_Air_Base",
+                        "keywords": "",
+                        "glid": 2947,
+                        "chineseName": "台北松山机场",
+                        "rotation": -90,
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":2
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        121.244712,
+                        25.082739
+                    ],
+                    "properties": {
+                        "OBJECTID": 18285,
+                        "id": 325268,
+                        "ident": "TW-0009",
+                        "type": "heliport",
+                        "name": "CTS (China Television System) Helipad",
+                        "latitude_d": 25.043433,
+                        "longitude_": 121.556379,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-TPE",
+                        "municipali": "Taipei",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "",
+                        "wikipedia_": "",
+                        "keywords": "CTS, China Television System, 中國電視系統",
+                        "glid": 13887,
+                        "chineseName": "台湾桃园国际机场",
+                        "rotation": -45,
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":3
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        120.6055522,
+                        24.2626609
+                    ],
+                    "properties": {
+                        "OBJECTID": 18287,
+                        "id": 325272,
+                        "ident": "TW-0011",
+                        "type": "heliport",
+                        "name": "Hsinchu Air Force Hospital Heliport",
+                        "latitude_d": 24.816245,
+                        "longitude_": 120.96203,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-HSZ",
+                        "municipali": "Hsinchu",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "",
+                        "wikipedia_": "",
+                        "keywords": "Hsinchu Air Force Hospital, 新竹空軍醫院直升機場, Xinchu",
+                        "glid": 13889,
+                        "chineseName": "台中清泉岗机场",
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":3
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        121.61445,
+                        24.02587
+                    ],
+                    "properties": {
+                        "OBJECTID": 18292,
+                        "id": 325277,
+                        "ident": "TW-0016",
+                        "type": "heliport",
+                        "name": "Mackay Memorial Hospital Helipad",
+                        "latitude_d": 25.139707,
+                        "longitude_": 121.460736,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-TPQ",
+                        "municipali": "New Taipei City",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "http://eng.mmh.org.tw/dnn/",
+                        "wikipedia_": "https://en.wikipedia.org/wiki/Mackay_Memorial_Hospital",
+                        "keywords": "Mackay Memorial Hospital; 麥凱紀念醫院直升機停機坪",
+                        "glid": 13894,
+                        "chineseName": "台湾花莲机场",
+                        "rotation": -25,
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":2
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        119.566499,
+                        23.565845
+                    ],
+                    "properties": {
+                        "OBJECTID": 18293,
+                        "id": 325278,
+                        "ident": "TW-0017",
+                        "type": "heliport",
+                        "name": "Maritime Patrol Directorate General Helipad",
+                        "latitude_d": 25.176236,
+                        "longitude_": 121.421446,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-TPQ",
+                        "municipali": "Tanshui",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "",
+                        "wikipedia_": "",
+                        "keywords": "Maritime Patrol Directorate General, Tanshui, 海上巡邏總司令",
+                        "glid": 13895,
+                        "chineseName": "澎湖马公机场",
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":3
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        120.40033,
+                        23.45802
+                    ],
+                    "properties": {
+                        "OBJECTID": 18294,
+                        "id": 325280,
+                        "ident": "TW-0018",
+                        "type": "heliport",
+                        "name": "Nan-Gang Police District Helipad",
+                        "latitude_d": 25.055333,
+                        "longitude_": 121.594626,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-TPE",
+                        "municipali": "Taipei",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "",
+                        "wikipedia_": "",
+                        "keywords": "Nan-Gang Police District, 南港警區直升機停機坪",
+                        "glid": 13896,
+                        "chineseName": "嘉义水上机场",
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":3
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        119.423929,
+                        23.206018
+                    ],
+                    "properties": {
+                        "OBJECTID": 18299,
+                        "id": 325286,
+                        "ident": "TW-0023",
+                        "type": "heliport",
+                        "name": "Taipei City Hall Helipad",
+                        "latitude_d": 25.037416,
+                        "longitude_": 121.564598,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-TPE",
+                        "municipali": "Taipei",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "",
+                        "wikipedia_": "",
+                        "keywords": "Taipei City Hall",
+                        "glid": 13901,
+                        "chineseName": "七美机场",
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":3
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        120.187817,
+                        22.998601
+                    ],
+                    "properties": {
+                        "OBJECTID": 18300,
+                        "id": 325287,
+                        "ident": "TW-0024",
+                        "type": "heliport",
+                        "name": "Taipei City Hospital Heliport",
+                        "latitude_d": 25.051121,
+                        "longitude_": 121.508931,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-TPE",
+                        "municipali": "Taipei",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "http://english.tch.gov.taipei/",
+                        "wikipedia_": "",
+                        "keywords": "Taipei City Hospital, 台北市醫院直升機場",
+                        "glid": 13902,
+                        "chineseName": "台南机场",
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":3
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        121.113207,
+                        22.764364
+                    ],
+                    "properties": {
+                        "OBJECTID": 18301,
+                        "id": 325288,
+                        "ident": "TW-0025",
+                        "type": "heliport",
+                        "name": "Taipei City Government Fire Bureau Helipad",
+                        "latitude_d": 25.040744,
+                        "longitude_": 121.56907,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-TPE",
+                        "municipali": "Taipei",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "",
+                        "wikipedia_": "",
+                        "keywords": "Taipei City Government Fire Bureau, 台北市消防局直升機場",
+                        "glid": 13903,
+                        "chineseName": "台东丰年机场",
+                        "rotation": 135,
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":3
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        120.745451,
+                        22.002373
+                    ],
+                    "properties": {
+                        "OBJECTID": 18304,
+                        "id": 325291,
+                        "ident": "TW-0028",
+                        "type": "heliport",
+                        "name": "Taipei Veterans’ General Helipad",
+                        "latitude_d": 25.120213,
+                        "longitude_": 121.51986,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-TPE",
+                        "municipali": "Taipei",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "https://imsc.vghtpe.gov.tw/",
+                        "wikipedia_": "https://en.wikipedia.org/wiki/Taipei_Veterans_General_Hospital",
+                        "keywords": "Taipei Veterans’ General Hospital Helipad, 台北退伍軍人總醫院直升機停機坪",
+                        "glid": 13906,
+                        "chineseName": "恒春五里亭机场",
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":2
+                    }
+                },
+                {
+                    "type": "Point",
+                    "coordinates": [
+                        128.31984455428437,
+                        26.282818023248776
+                    ],
+                    "properties": {
+                        "OBJECTID": 18304,
+                        "id": 325291,
+                        "ident": "TW-0028",
+                        "type": "heliport",
+                        "name": "Taipei Veterans’ General Helipad",
+                        "latitude_d": 25.120213,
+                        "longitude_": 121.51986,
+                        "elevation_": 0,
+                        "continent": "AS",
+                        "iso_countr": "TW",
+                        "iso_region": "TW-TPE",
+                        "municipali": "Taipei",
+                        "scheduled_": "no",
+                        "gps_code": "",
+                        "iata_code": "",
+                        "local_code": "",
+                        "home_link": "https://imsc.vghtpe.gov.tw/",
+                        "wikipedia_": "https://en.wikipedia.org/wiki/Taipei_Veterans_General_Hospital",
+                        "keywords": "Taipei Veterans’ General Hospital Helipad, 台北退伍軍人總醫院直升機停機坪",
+                        "glid": 13906,
+                        "chineseName": "嘉手纳空军机场",
+                        "rotation": 135,
+                        "name_cn": "",
+                        "glzd": 0,
+                        "weather":3
+                    }
+                }
+            ]
+        }
+    }
+}
+
+

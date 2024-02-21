@@ -1,0 +1,276 @@
+{
+  "type": "Topology",
+  "arcs": [],
+  "objects": {
+    "军民机场": {
+      "type": "GeometryCollection",
+      "geometries": [{
+          "type": "Point",
+          "coordinates": [
+            108.190932,
+            22.613702
+          ],
+          "properties": {
+            "id": 0,
+            "x": 108.190932,
+            "y": 22.613702,
+            "name": "南宁吴圩国际机场",
+            "weather": 1
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            120.440206,
+            31.511051
+          ],
+          "properties": {
+            "id": 1,
+            "x": 120.440206,
+            "y": 31.511051,
+            "name": "苏南硕放国际机场",
+            "weather": 3
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            119.791288,
+            31.917941
+          ],
+          "properties": {
+            "id": 2,
+            "x": 119.791288,
+            "y": 31.917941,
+            "name": "常州奔牛国际机场",
+            "weather": 2
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            118.599279,
+            24.806529
+          ],
+          "properties": {
+            "id": 3,
+            "x": 118.599279,
+            "y": 24.806529,
+            "name": "泉州晋江国际机场",
+            "weather": 3
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            122.247027,
+            37.195491
+          ],
+          "properties": {
+            "id": 4,
+            "x": 122.247027,
+            "y": 37.195491,
+            "name": "威海大水泊国际机场",
+            "weather": 1
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            120.039161,
+            29.346731
+          ],
+          "properties": {
+            "id": 5,
+            "x": 120.039161,
+            "y": 29.346731,
+            "name": "义乌机场",
+            "weather": 3
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            116.760278,
+            23.425
+          ],
+          "properties": {
+            "id": 5,
+            "x": 116.760278,
+            "y": 23.425,
+            "name": "广州汕头机场",
+            "weather": 3
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            109.410569,
+            24.20699
+          ],
+          "properties": {
+            "id": 6,
+            "x": 109.410569,
+            "y": 24.20699,
+            "name": "柳州白莲机场",
+            "weather": 1
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            119.126612,
+            36.647245
+          ],
+          "properties": {
+            "id": 7,
+            "x": 119.126612,
+            "y": 36.647245,
+            "name": "潍坊南苑机场",
+            "weather": 1
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            94.342603,
+            29.308075
+          ],
+          "properties": {
+            "id": 8,
+            "x": 94.342603,
+            "y": 29.308075,
+            "name": "林芝米林机场",
+            "weather": 1
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            94.794533,
+            36.4067
+          ],
+          "properties": {
+            "id": 9,
+            "x": 94.794533,
+            "y": 36.4067,
+            "name": "格尔木机场",
+            "weather": 1
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            119.329814,
+            26.012482
+          ],
+          "properties": {
+            "id": 10,
+            "x": 119.329814,
+            "y": 26.012482,
+            "name": "福州义序机场",
+            "weather": 3
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            113.082539,
+            23.086694
+          ],
+          "properties": {
+            "id": 11,
+            "x": 113.082539,
+            "y": 23.086694,
+            "name": "佛山沙堤机场",
+            "weather": 2
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            115.81,
+            29.34
+          ],
+          "properties": {
+            "id": 12,
+            "x": 115.81,
+            "y": 29.34,
+            "name": "九江庐山机场",
+            "weather": 2
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            114.61,
+            23.05
+          ],
+          "properties": {
+            "id": 13,
+            "x": 114.61,
+            "y": 23.05,
+            "name": "惠州平潭机场",
+            "weather": 2
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            116.760278,
+            23.425
+          ],
+          "properties": {
+            "id": 14,
+            "x": 116.760278,
+            "y": 23.425,
+            "name": "汕头外砂机场",
+            "weather": 2
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            116.36,
+            35.3
+          ],
+          "properties": {
+            "id": 15,
+            "x": 116.36,
+            "y": 35.3,
+            "name": "济宁曲阜机场",
+            "weather": 2
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            119.27,
+            25.36
+          ],
+          "properties": {
+            "id": 16,
+            "x": 119.27,
+            "y": 25.36,
+            "name": "福清龙田机场",
+            "weather": 2
+          }
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            118.40,
+            31.40
+          ],
+          "properties": {
+            "id": 17,
+            "x": 118.40,
+            "y": 31.40,
+            "name": "芜湖湾里机场",
+            "weather": 2
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        119.18029539190685,
+                        26.049704179764564
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-福州"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        119.0145,
+                        25.4598
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-莆田"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        120.7064,
+                        28.00109
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-温州"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        121.4274,
+                        28.66219
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-台州"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        119.5545,
+                        26.6722
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-宁德"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        108.46320400226405,
+                        23.057013425993308
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-广西"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        113.53574604680841,
+                        23.348364673818537
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-广东"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        117.35580112480966,
+                        31.763442092307894
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-安徽"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        113.46897656823985,
+                        34.62787111770472
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-河南"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        114.53659,
+                        38.04320
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-河北"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        112.56938,
+                        37.87983
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-山西"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        108.96039,
+                        34.27581
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-陕西"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        117.20809,
+                        39.09110
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-天津"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        118.5584,
+                        24.7878
+                    ],
+                    [
+                        116.41339,
+                        39.91092
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "202305杜苏芮-北京"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

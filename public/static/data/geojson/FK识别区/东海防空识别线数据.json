@@ -1,0 +1,1 @@
+{"type":"Topology","arcs":[[[15,203],[58,0],[60,-53],[-60,-129],[-36,-21],[-37,48]]],"transform":{"scale":[0.0553884661654136,0.041543512315270925],"translate":[120.96666699999999,24.75]},"objects":{"东海防空识别l":{"type":"GeometryCollection","geometries":[{"type":"LineString","arcs":[0],"properties":{"Id":0}}]}}}
