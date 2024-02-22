@@ -2,10 +2,11 @@
   <div class="home">
     <div id="lng-lat-info" class="lng-lat-info"></div>
     <earth-viewer> </earth-viewer>
-    <button id="toogle-btn2" @click="ttt" v-show="true">执行</button>
+    <!-- <button id="toogle-btn2" @click="ttt" v-show="true">执行</button> -->
     <homeHeader
       class="animate__animated animate__fadeInDown animate__delay-10s"
     ></homeHeader>
+    <rightNavbar></rightNavbar>
     <!-- 图层列表 -->
     <layerList
       v-show="isShowTree"
@@ -28,6 +29,7 @@
 import EarthViewer from '@/views/3D/EarthViewer.vue'
 import layerList from '@/views/navbar/layerList/index.vue'
 import firstDiv from '@/utils/bubble/firstDiv'
+import rightNavbar from '@/components/rightNavbar/rightNavbar'
 // 导入hooks
 import { websocket } from './hooks/index.js'
 import { useStore } from 'vuex'

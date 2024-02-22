@@ -101,6 +101,12 @@ export default class SceneAction {
     window.EarthViewer.scene.globe.depthTestAgainstTerrain = false //关闭深度
     window.EarthViewer.scene.postProcessStages.removeAll()
     window.EarthViewer.entities.removeAll()
-    window.EarthViewer.dataSources.removeAll()
+    console.log(window.EarthViewer.dataSources);
+    // window.EarthViewer.dataSources.removeAll()
+    const ds = window.EarthViewer.dataSources
+    for (let index = 0; index < ds.length; index++) {
+      const element = ds[index];
+      window.EarthViewer.dataSources.remove(element)
+    }
   }
 }

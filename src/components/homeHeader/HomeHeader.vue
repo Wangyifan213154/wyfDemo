@@ -122,6 +122,87 @@
         </div>
       </div>
     </Transition>
+    <Transition
+      name="custom-classes"
+      enter-active-class="animate__animated animate__zoomIn "
+      leave-active-class="animate__animated animate__zoomOut"
+    >
+      <div
+        class="interactive-container animate__animated animate__fadeInLeft animate__delay-10s"
+        v-show="curType == '空间分析'"
+      >
+        <div class="container_blur_info">
+          <div class="container-title">
+            <div class="title-context">
+              <div>空间分析</div>
+              <div></div>
+              <div @click="goHome" class="retract">
+                <img src="@/assets/image/header/返回_关闭.png" />
+              </div>
+            </div>
+          </div>
+
+          <div class="container-main">
+            <el-collapse
+              v-model="activeNames"
+              v-for="item in geoAnalysisState"
+              :key="item.name"
+              @change="handleChange"
+            >
+              <el-collapse-item :name="item.name" @click="test(item)">
+                <template #title>
+                  <div class="collapse-title">
+                    <img
+                      :src="
+                        require(item.name == '数据'
+                          ? '@/assets/image/header/数据.png'
+                          : item.name == '知识'
+                          ? '@/assets/image/header/知识.png'
+                          : '@/assets/image/header/实体.png')
+                      "
+                      alt=""
+                      style="height: 20px; margin-right: 5px"
+                    />
+                    {{ item.name }}
+                  </div>
+                </template>
+                <el-card
+                  class="card-item"
+                  shadow="hover"
+                  v-for="(analysis, index) in item.childList"
+                  :key="index"
+                  @click="handleCardSelect(analysis, item.name)"
+                  :class="index == activeIndex ? 'card-click' : ''"
+                >
+                  <div
+                    class=""
+                    :class="analysis.name == activeIndex ? 'card__input' : ''"
+                  />
+                  <el-image
+                    loading="lazy"
+                    :class="['animated', analysis.class]"
+                    :src="analysis.img"
+                    alt=""
+                    style="
+                      width: 100%;
+                      height: 70%;
+                      border: 1px solid #5c5757;
+                      border-radius: 10px;
+                    "
+                  ></el-image>
+                  <div class="img-content" :title="analysis.name">
+                    {{ analysis.name }}
+                  </div>
+                </el-card>
+              </el-collapse-item>
+            </el-collapse>
+          </div>
+          <!-- <div class="container-btn">
+            <div @click="">进入数据中台</div>
+          </div> -->
+        </div>
+      </div>
+    </Transition>
   </div>
 </template>
 
@@ -130,6 +211,7 @@ import { ref, reactive, toRefs, onMounted, watch, onUnmounted } from 'vue'
 import store from '@/store/index'
 import router from '@/router/index'
 import emitter from '@/utils/eventbus'
+import { geoAnalysis } from './hooks/index'
 export default {
   name: 'home-header',
   components: {
@@ -143,6 +225,7 @@ export default {
     // great
   },
   setup() {
+    const { geoAnalysisState } = geoAnalysis()
     const state = reactive({
       activeMenu: '应用门户',
       menuList: ['应用门户', '示范场景', '空间分析', '示例效果'],
@@ -162,8 +245,10 @@ export default {
       // greatboolean: false,
       currentTime: '',
       daihaoTime: '----/--/-- --:--:--',
+      curType: '应用门户',
       isShujumenhu: false,
       isDianxingshifan: false,
+      isAnalysis: false,
       isYingyongmenhu: false,
       isYewumenhu: false,
       isYingyongkaifa: false,
@@ -190,6 +275,7 @@ export default {
       state.isYingyongkaifa = false
       state.showTWCityImage = false
       state.Component = ''
+      state.curType = type
       if (type == state.menuList[1]) {
         state.isShujumenhu = true
         state.isDianxingshifan = false
@@ -197,7 +283,7 @@ export default {
         state.isYingyongmenhu = true
         state.isDianxingshifan = false
       } else if (type == state.menuList[2]) {
-        state.isYewumenhu = true
+        state.isAnalysis = true
         state.isDianxingshifan = false
       } else if (type == state.menuList[3]) {
         state.isDianxingshifan = !state.isDianxingshifan
@@ -222,7 +308,7 @@ export default {
             name: '地形渲染',
             icon: '',
             img: require('@/assets/image/数据中台缩略图/地形渲染.png'),
-            callback: function() {
+            callback: function () {
               window.sceneAction.environmentController.viewTW()
             },
             class: ''
@@ -333,6 +419,7 @@ export default {
 
     return {
       ...toRefs(state),
+      geoAnalysisState,
       selectMenu,
       cesiumData,
       handleCardSelect,
