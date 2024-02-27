@@ -13,6 +13,8 @@
       class="animate__animated animate__backInDown animate__delay-10s"
     ></layerList>
     <firstDiv></firstDiv>
+    <!-- 军标 -->
+    <MilitaryPlottingTools v-if="showMilitaryPlot"></MilitaryPlottingTools>
     <!-- <el-select class="drawPoint" value-key="value" @change="drawPoint(item)">
       <el-option
         v-for="item in keyList"
@@ -30,6 +32,7 @@ import EarthViewer from '@/views/3D/EarthViewer.vue'
 import layerList from '@/views/navbar/layerList/index.vue'
 import firstDiv from '@/utils/bubble/firstDiv'
 import rightNavbar from '@/components/rightNavbar/rightNavbar'
+import MilitaryPlottingTools from '@/components/MilitaryPlotting/MilitaryPlottingTools'
 // 导入hooks
 import { websocket } from './hooks/index.js'
 import { useStore } from 'vuex'
@@ -46,14 +49,22 @@ export default {
     EarthViewer,
     homeHeader,
     layerList,
-    firstDiv
+    firstDiv,
+    rightNavbar,
+    MilitaryPlottingTools
   },
   setup() {
     const radarShow = ref(false)
     const store = useStore()
     const state = reactive({
       keyList: [],
-      isShowTree: false
+      isShowTree: false,
+      showMilitaryPlot: false, //军标面板
+    })
+
+    // 军标图例
+    emitter.on('changeMilitaryPlot', (val) => {
+      state.showMilitaryPlot = val
     })
 
     const router = new useRouter()
@@ -178,6 +189,7 @@ export default {
         type: 'panel'
       }
       let layerList = new window.EarthPlugn.treeManagement(options)
+      // window.sceneAction.satelliteSimulateController.createCzmlGroup()
     })
 
     return { viewTW, ...toRefs(state), ttt }

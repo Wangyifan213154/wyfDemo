@@ -237,14 +237,14 @@ const state = reactive({
     //   img: require('@/assets/image/rightNavbar/图例.png'),
     //   img2: require('@/assets/image/rightNavbar/图例-p.png')
     // },
-    // {
-    //   name: '军标',
-    //   tag: 'militaryPlot',
-    //   actived: false,
-    //   sign: false,
-    //   img: require('@/assets/image/rightNavbar/图例.png'),
-    //   img2: require('@/assets/image/rightNavbar/图例-p.png')
-    // },
+    {
+      name: '军标',
+      tag: 'militaryPlot',
+      actived: false,
+      sign: false,
+      img: require('@/assets/image/rightNavbar/图例.png'),
+      img2: require('@/assets/image/rightNavbar/图例-p.png')
+    },
     // {
     //   name: '场景执行',
     //   tag: 'scenarioExecution',
@@ -564,7 +564,8 @@ const reset = () => {
   const viewer = window.EarthViewer
   // emitter.emit('closeES', '结束') // 结束ES测试
   //清除相机视角固定
-  viewer.trackedEntity = ''
+  // viewer.trackedEntity = ''
+  window.sceneAction.clearScene()
   viewer.camera.flyTo({
     destination: new window.XEarth.Cartesian3.fromDegrees(
       109.87,
@@ -575,9 +576,11 @@ const reset = () => {
       heading: 6.283185307179586,
       pitch: -1.5702354045820344,
       roll: 0
+    },
+    complete: () => {
+      
     }
   })
-  window.sceneAction.clearScene()
   // let pathIds = store.getters.getSelectSatelliteIdList
   // pathIds.forEach((element) => {
   //   let ds = viewer.dataSources.getByName(element)

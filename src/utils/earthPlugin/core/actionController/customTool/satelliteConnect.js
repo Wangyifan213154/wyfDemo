@@ -108,7 +108,7 @@ export function satelliteNetConnect(params) {
     } else {
       // 初始网，飞行到网
       if (params.reconnect == undefined) {
-        // flyToNet(params.edges[0])
+        flyToNet(params.edges[0])
       }
       // fadeSatellites(false)
       // 气泡窗
@@ -233,20 +233,21 @@ function typeDeal(data) {
  * 组网定位
  * @param {*} params
  */
-// function flyToNet(params) {
-//   let sourceSource = window.EarthViewer.dataSources.getByName(satelliteSensorTypeNumToDSName(params.sourSensorType))
-//   if (sourceSource.length == 0) return
-//   //获取实体
-//   let entity1 = sourceSource[0].entities.getById(params.sourID)
-//   if (!entity1) return
-//   window.EarthViewer.flyTo(entity1, {
-//     offset: new window.XEarth.HeadingPitchRange(
-//       6.283185307179585, -1.5685439448675385,
-//       // -1.342200585246483,
-//       5000000
-//     )
-//   })
-// }
+function flyToNet(params) {
+  // let sourceSource = window.EarthViewer.dataSources.getByName(satelliteSensorTypeNumToDSName(params.sourSensorType))
+  let sourceSource = window.EarthViewer.dataSources.getByName(params.sourSensorType)
+  if (sourceSource.length == 0) return
+  //获取实体
+  let entity1 = sourceSource[0].entities.getById(params.sourID)
+  if (!entity1) return
+  window.EarthViewer.flyTo(entity1, {
+    offset: new window.XEarth.HeadingPitchRange(
+      6.283185307179585, -1.5685439448675385,
+      // -1.342200585246483,
+      5000000
+    )
+  })
+}
 
 /**
  * 创建组网数据源
@@ -333,6 +334,7 @@ function creatNetToSource(params) {
     //   window.EarthViewer.clock.shouldAnimate = true
     //   return
     // }
+    if (!entity1 || !entity2) return
     let position
     let entityPos1 = entity1.position.getValue(window.EarthViewer.clock.currentTime)
     let entityPos2 = entity2.position.getValue(window.EarthViewer.clock.currentTime)
@@ -452,6 +454,7 @@ function showPose(params) {
   //改变位置
   function changePos() {
     // if (!Cesium.defined(params.net)) return
+    if (!entity1 || !entity2) return
     let position
     let entityPos1 = entity1.position.getValue(window.EarthViewer.clock.currentTime)
     let entityPos2 = entity2.position.getValue(window.EarthViewer.clock.currentTime)

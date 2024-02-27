@@ -96,17 +96,21 @@ export default class SceneAction {
   }
   clearScene() {
     emitter.emit('isShowTree', false)
+    // window.EarthViewer.clock.shouldAnimate = false
+    window.EarthViewer.dataSources.removeAll()
     window.EarthViewer.scene.postProcessStages.fxaa.enabled = false
     window.EarthViewer.scene.globe.material = null
     window.EarthViewer.scene.globe.depthTestAgainstTerrain = false //关闭深度
     window.EarthViewer.scene.postProcessStages.removeAll()
     window.EarthViewer.entities.removeAll()
     console.log(window.EarthViewer.dataSources);
-    // window.EarthViewer.dataSources.removeAll()
-    const ds = window.EarthViewer.dataSources
-    for (let index = 0; index < ds.length; index++) {
-      const element = ds[index];
-      window.EarthViewer.dataSources.remove(element)
+
+    let labels = document.getElementsByClassName('powerPop')
+    if (labels) {
+      for (let index = 0; index < labels.length; index++) {
+        const element = labels[index]
+        element.style.display = 'none'
+      }
     }
   }
 }

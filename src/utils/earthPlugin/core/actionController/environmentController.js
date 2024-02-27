@@ -1,6 +1,7 @@
 import store from '@/store'
 import * as turf from '@turf/turf'
 import { divLabel } from '@/components/earthComponents/dataBubbleWindow/dataBubble.js'
+
 export default class EnvironmentController {
   constructor(options) {
     this.Earth = options.earth
@@ -54,7 +55,7 @@ export default class EnvironmentController {
   }
   accidentalPowerStationDMX = function (val) {
     const that = this
-    
+
     store.state.home.powerStationName = val.title
     let options = val || []
     let ccolor = options.color || [228, 63, 50]
@@ -87,7 +88,7 @@ export default class EnvironmentController {
       minHeight: 1000
     }
     that.drawRectangular(option)
-  
+
     if (entity) {
       let aa = window.EarthViewer.entities.getById('Rectangular111')
       window.EarthViewer.flyTo(aa, {
@@ -127,7 +128,7 @@ export default class EnvironmentController {
         }
       })
     }
-  
+
     that.createWall({
       color: ccolor,
       position: pos
@@ -182,7 +183,7 @@ export default class EnvironmentController {
           entity.billboard = null
           let colorp = null
           let img = null
-  
+
           // console.log(entity);
           if (entity.properties.type._value.includes('变电所')) {
             colorp = new window.XEarth.Color(249 / 255, 193 / 255, 31 / 255)
@@ -464,7 +465,7 @@ export default class EnvironmentController {
               entity.polyline.distanceDisplayCondition =
                 new window.XEarth.DistanceDisplayCondition(0, 8e5)
               break
-  
+
             default:
               break
           }
@@ -602,7 +603,7 @@ export default class EnvironmentController {
     let adding = true
     var _update_height = function () {
       let positionNew
-  
+
       if (
         centerCityInitHeight < maxHeight &&
         centerCityInitHeight > minHeight &&
@@ -691,7 +692,7 @@ export default class EnvironmentController {
         let tar = stationCamera[name]
         if (!tar || !tar[2]) return
         console.log(name, pickedObject.id)
-  
+
         that.accidentalPowerStationDMX({
           color: [255, 255, 0],
           entity: pickedObject.id,
@@ -714,11 +715,11 @@ export default class EnvironmentController {
       }
       // 切换路由
     }, window.XEarth.ScreenSpaceEventType.LEFT_CLICK)
-  
+
     const changeShow = () => {
       let number = 1
       let flag = true
-  
+
       const show1 = () => {
         if (flag) {
           number -= 0.08
@@ -804,7 +805,7 @@ export default class EnvironmentController {
                   62 / 255
                 )
                 break
-  
+
               default:
                 break
             }
@@ -881,7 +882,7 @@ export default class EnvironmentController {
                   })
                 entity.polyline.width = width
                 break
-  
+
               default:
                 break
             }
@@ -889,7 +890,7 @@ export default class EnvironmentController {
         }
       }
     })
-  
+
     // loadPowerData1()
     window.XEarth.GeoJsonDataSource.load(
       'static/geojson/taiwan/核心电厂.geojson'
@@ -1053,5 +1054,205 @@ export default class EnvironmentController {
     // })
     // window.EarthViewer.scene.terrainProvider = terrainLayer
     this.terrainExaggeration(0.03)
+  }
+  createEMIMaterial() {
+    const materail = new window.XEarth.EMIMaterialProperty({
+      transparent: true,
+      flowSpeed: 1.0,
+      half: false,
+      color: new window.XEarth.Color(1.0, 0.0, 0.0, 1.0),
+      EMITransparent: 0.7
+    })
+    const poss = [118, 20, 2000, 124, 20, 2000, 124, 26, 2000, 118, 26, 2000, 118, 20, 2000]
+    this.createMaterialPolygon(poss, materail)
+  }
+  createCloudMaterial() {
+    const materail = new window.XEarth.CloudMaterialProperty({
+      transparent: true,
+      flowSpeed: 0.5,
+      half: false,
+      color: new window.XEarth.Color(0.2, 0.5, 0.3),
+      cloudAlpha: 0.9,
+      cloudCover: 0.3,
+      skytint: 10
+    })
+    const poss = [120, 20, 2000, 124, 20, 2000, 124, 24, 2000, 120, 24, 2000, 120, 20, 2000]
+    this.createMaterialPolygon(poss, materail)
+  }
+  createMaterialPolygon(position, material) {
+    let PolygonEntity = window.EarthViewer.entities.add({
+      id: 'id' + Math.random(),
+      polygon: {
+        hierarchy: window.XEarth.Cartesian3.fromDegreesArrayHeights(position), //层次结构
+        // perPositionHeight: that.clampToGround,
+        //material: new window.XEarth.Color(0.2, 0.5, 0.3, 0.5),
+        material: material,
+        outlineColor: window.XEarth.Color.RED
+      }
+    })
+  }
+  async loadTyphoon(typhoonCzml) {
+    this.createImpulseMaterial()
+    const viewer = window.EarthViewer
+    let tt = typhoonCzml || typhoon
+    let dataSource = await viewer.dataSources.add(
+      window.XEarth.CzmlDataSource.load(tt)
+    )
+    let typhooncz = viewer.dataSources.getByName('typhoon')
+    let typhoonen = typhooncz[0].entities._entities._array[0]
+
+    function onTickCallback() {
+      let currentTime = viewer.clock.currentTime
+      let pos = typhoonen.position.getValue(currentTime)
+      return pos
+    }
+    viewer.entities.add({
+      id: '台风111',
+      position: new window.XEarth.CallbackProperty(onTickCallback, false),
+      ellipse: {
+        semiMinorAxis: 250000,
+        semiMajorAxis: 250000,
+        height: 35000.0,
+        material: new window.XEarth.RotateMaterialProperty({
+          image: 'static/image/texture/typhoon4.png',
+          flowSpeed: 20.0,
+          reverse: 1.0,
+          transparent: true
+        })
+      }
+    })
+    viewer.entities.add({
+      id: '台风1111',
+      position: new window.XEarth.CallbackProperty(onTickCallback, false),
+      ellipse: {
+        semiMinorAxis: 250000,
+        semiMajorAxis: 250000,
+        height: 35000.0,
+        material: new window.XEarth.ImpulseMaterialProperty(
+          window.XEarth.Color.GREEN,
+          1000
+        ),
+      }
+    })
+    // lonlatLabel(typhoonen, 1, 1, true)
+    return dataSource
+  }
+  createImpulseMaterial() {
+    const Cesium = window.XEarth
+    const viewer = window.EarthViewer
+    function ImpulseMaterialProperty(color, duration) {
+      this._definitionChanged = new window.XEarth.Event()
+      this._color = undefined
+      this._colorSubscription = undefined
+      this.color = color
+      this.duration = duration
+      this._time = new Date().getTime()
+      this.u_radius = undefined
+    }
+    Object.defineProperties(ImpulseMaterialProperty.prototype, {
+      isConstant: {
+        get: function () {
+          return false
+        }
+      },
+      definitionChanged: {
+        get: function () {
+          return this._definitionChanged
+        }
+      },
+      color: window.XEarth.createPropertyDescriptor('color')
+    })
+    ImpulseMaterialProperty.prototype.getType = function (time) {
+      return 'ImpulseMaterialProperty'
+    }
+    ImpulseMaterialProperty.prototype.getValue = function (time, result) {
+      if (!window.XEarth.defined(result)) {
+        result = {}
+      }
+      // 单色
+      result.color = window.XEarth.Property.getValueOrClonedDefault(
+        this._color,
+        time,
+        window.XEarth.Color.WHITE,
+        result.color
+      )
+      // 多色
+      // result.color = resultcolor(
+      //   ((new Date().getTime() - this._time) % (this.duration * 35)) /
+      //     (this.duration * 35)
+      // );
+      result.time = (new Date().getTime() - this._time) / this.duration
+      result.u_radius = 50
+      return result
+    }
+    ImpulseMaterialProperty.prototype.equals = function (other) {
+      return (
+        this === other || other instanceof ImpulseMaterialProperty
+        // &&Property.equals(this._color, other._color)
+      )
+    }
+    window.XEarth.ImpulseMaterialProperty = ImpulseMaterialProperty
+    window.XEarth.Material.ImpulseMaterialProperty =
+      'ImpulseMaterialProperty'
+    window.XEarth.Material.ImpulseSource = `
+    #define PI 3.14159267
+    float lerp (float x,float y,float t ) {
+        return ( 1.0 - t ) * x + t * y;
+    }
+    float distanceTo(vec2 src, vec2 dst) {
+        float dx = src.x - dst.x;
+        float dy = src.y - dst.y;
+        float dv = dx * dx + dy * dy;
+        return sqrt(dv);
+    }
+    vec3 lerp(vec3 colorone, vec3 colortwo, float value)
+    {
+      return (colorone + value*(colortwo-colorone));
+    }
+    czm_material czm_getMaterial(czm_materialInput materialInput)
+         {
+             // 特别要注意的是 此处计算用的是st纹理坐标，而不是世界或相机坐标，因此各种值军需归一化，即0-1之间。
+             czm_material material = czm_getDefaultMaterial(materialInput);
+             vec2 uv = materialInput.st;
+             vec2 p = 2.0*vec2(uv.x,uv.y) - vec2(1., 1.) ;
+
+             // 调整半径
+             float r = length(p) * 1.4;
+             // 颜色在这里设置
+            //  vec3 color =vec3(0., 1.0, 1.);
+            vec3 color =vec3(0.0, 0.3, 0.4);
+
+             float timer=czm_frameNumber / 120.0;
+             float a = pow(r, 2.0);
+             float b = sin(r * 1.8 - 1.6);
+             float c = sin(r - 0.120);
+             float s = sin(a - timer * 3.0 + b) * c;
+
+             color *= abs(4.0 / (s * 8.8)) - 0.01; //abs第一个参数控制圈的宽度，数值越大圈越大
+
+             float a2 = pow(r*0.9, 5.0);
+             vec4 fragColor = vec4(color, 1.);
+             material.diffuse = fragColor.rbg;
+             material.alpha = sin((a2+0.1)*0.3);
+            //  material.alpha = 1.0;
+             return material;
+         }`
+
+    window.XEarth.Material._materialCache.addMaterial(
+      window.XEarth.Material.ImpulseMaterialProperty,
+      {
+        fabric: {
+          type: window.XEarth.Material.ImpulseMaterialProperty,
+          uniforms: {
+            color: new window.XEarth.Color(0.0, 0.0, 0.0, 1.0),
+            time: 0
+          },
+          source: window.XEarth.Material.ImpulseSource
+        },
+        translucent: function (material) {
+          return material.uniforms.color.alpha <= 1.0
+        }
+      }
+    )
   }
 }

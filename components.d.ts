@@ -18,6 +18,7 @@ declare module '@vue/runtime-core' {
     ElCheckbox: typeof import('element-plus/es')['ElCheckbox']
     ElCollapse: typeof import('element-plus/es')['ElCollapse']
     ElCollapseItem: typeof import('element-plus/es')['ElCollapseItem']
+    ElColorPicker: typeof import('element-plus/es')['ElColorPicker']
     ElImage: typeof import('element-plus/es')['ElImage']
     ElRadio: typeof import('element-plus/es')['ElRadio']
     ElRadioGroup: typeof import('element-plus/es')['ElRadioGroup']
@@ -25,11 +26,13 @@ declare module '@vue/runtime-core' {
     ElTree: typeof import('element-plus/es')['ElTree']
     GetMessage: typeof import('./src/components/websocket/GetMessage.vue')['default']
     HomeHeader: typeof import('./src/components/homeHeader/HomeHeader.vue')['default']
+    MilitaryPlottingTools: typeof import('./src/components/MilitaryPlotting/MilitaryPlottingTools.vue')['default']
     NotFound: typeof import('./src/components/content/NotFound.vue')['default']
     RightNavbar: typeof import('./src/components/rightNavbar/rightNavbar.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     SendMessage: typeof import('./src/components/websocket/SendMessage.vue')['default']
     TaskResultDetails: typeof import('./src/components/earthComponents/dataBubbleWindow/taskResultDetails.vue')['default']
+    Test: typeof import('./src/components/MilitaryPlotting/test.vue')['default']
   }
 }

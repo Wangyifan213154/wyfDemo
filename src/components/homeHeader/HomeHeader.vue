@@ -11,7 +11,7 @@
             <img :src="logoImg" alt="" style="" />
           </div>
           <div class="title-text">
-            <div>cesium3Ddemo</div>
+            <div>wyf-demo</div>
             <div class="text-pinyin"></div>
           </div>
         </div>
@@ -203,6 +203,87 @@
         </div>
       </div>
     </Transition>
+    <Transition
+      name="custom-classes"
+      enter-active-class="animate__animated animate__zoomIn "
+      leave-active-class="animate__animated animate__zoomOut"
+    >
+      <div
+        class="interactive-container animate__animated animate__fadeInLeft animate__delay-10s"
+        v-show="curType == '示例效果'"
+      >
+        <div class="container_blur_info">
+          <div class="container-title">
+            <div class="title-context">
+              <div>示例效果</div>
+              <div></div>
+              <div @click="goHome" class="retract">
+                <img src="@/assets/image/header/返回_关闭.png" />
+              </div>
+            </div>
+          </div>
+
+          <div class="container-main">
+            <el-collapse
+              v-model="activeNames"
+              v-for="item in exEffectState"
+              :key="item.name"
+              @change="handleChange"
+            >
+              <el-collapse-item :name="item.name" @click="test(item)">
+                <template #title>
+                  <div class="collapse-title">
+                    <img
+                      :src="
+                        require(item.name == '数据'
+                          ? '@/assets/image/header/数据.png'
+                          : item.name == '知识'
+                          ? '@/assets/image/header/知识.png'
+                          : '@/assets/image/header/实体.png')
+                      "
+                      alt=""
+                      style="height: 20px; margin-right: 5px"
+                    />
+                    {{ item.name }}
+                  </div>
+                </template>
+                <el-card
+                  class="card-item"
+                  shadow="hover"
+                  v-for="(analysis, index) in item.childList"
+                  :key="index"
+                  @click="handleCardSelect(analysis, item.name)"
+                  :class="index == activeIndex ? 'card-click' : ''"
+                >
+                  <div
+                    class=""
+                    :class="analysis.name == activeIndex ? 'card__input' : ''"
+                  />
+                  <el-image
+                    loading="lazy"
+                    :class="['animated', analysis.class]"
+                    :src="analysis.img"
+                    alt=""
+                    style="
+                      width: 100%;
+                      height: 70%;
+                      border: 1px solid #5c5757;
+                      border-radius: 10px;
+                    "
+                  ></el-image>
+                  <div class="img-content" :title="analysis.name">
+                    {{ analysis.name }}
+                  </div>
+                </el-card>
+              </el-collapse-item>
+            </el-collapse>
+          </div>
+          <!-- <div class="container-btn">
+            <div @click="">进入数据中台</div>
+          </div> -->
+        </div>
+      </div>
+    </Transition>
   </div>
 </template>
 
@@ -211,7 +292,7 @@ import { ref, reactive, toRefs, onMounted, watch, onUnmounted } from 'vue'
 import store from '@/store/index'
 import router from '@/router/index'
 import emitter from '@/utils/eventbus'
-import { geoAnalysis } from './hooks/index'
+import { geoAnalysis, exEffect } from './hooks/index'
 export default {
   name: 'home-header',
   components: {
@@ -226,6 +307,7 @@ export default {
   },
   setup() {
     const { geoAnalysisState } = geoAnalysis()
+    const { exEffectState } = exEffect()
     const state = reactive({
       activeMenu: '应用门户',
       menuList: ['应用门户', '示范场景', '空间分析', '示例效果'],
@@ -338,7 +420,7 @@ export default {
               window.sceneAction.satelliteSimulateController.createCzmlGroup()
               setTimeout(() => {
                 window.sceneAction.satelliteSimulateController.connect()
-              }, 6000)
+              }, 3000)
             },
             class: ''
           },
@@ -420,6 +502,7 @@ export default {
     return {
       ...toRefs(state),
       geoAnalysisState,
+      exEffectState,
       selectMenu,
       cesiumData,
       handleCardSelect,
