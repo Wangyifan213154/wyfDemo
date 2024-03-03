@@ -2,6 +2,7 @@
 示例
 ![组网](https://github.com/Wangyifan213154/wyfDemo/assets/95286166/3b2d73b7-79ea-4289-bea9-2b7faeb34d51)
 ![卫星侦察](https://github.com/Wangyifan213154/wyfDemo/assets/95286166/a9ec123c-6475-4812-a749-b7e09eb9b6dd)
+![飞机作战](https://github.com/Wangyifan213154/wyfDemo/assets/95286166/041293a4-3fb6-440e-af63-1dfbbf3e61c2)
 
 ![坡度坡向分析](https://github.com/Wangyifan213154/wyfDemo/assets/95286166/29b56789-7ec6-4064-9901-03eb46b56015)
 ![可视域](https://github.com/Wangyifan213154/wyfDemo/assets/95286166/8b6323e9-5d8f-4172-bd9a-c0732446220b)
