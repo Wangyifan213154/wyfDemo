@@ -1,7 +1,6 @@
 # vue3test2
 示例
 ![组网](https://github.com/Wangyifan213154/wyfDemo/assets/95286166/3b2d73b7-79ea-4289-bea9-2b7faeb34d51)
-![组网](https://github.com/Wangyifan213154/wyfDemo/assets/95286166/d974990b-46c1-4bb7-8cd3-040e13243377)
 
 ![坡度坡向分析](https://github.com/Wangyifan213154/wyfDemo/assets/95286166/29b56789-7ec6-4064-9901-03eb46b56015)
 ![可视域](https://github.com/Wangyifan213154/wyfDemo/assets/95286166/8b6323e9-5d8f-4172-bd9a-c0732446220b)
